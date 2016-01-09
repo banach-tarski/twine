@@ -1,0 +1,528 @@
+(dp0
+S'buildDestination'
+p1
+VD:\u005cProjekte\u005cone\u005c5.html
+p2
+sS'saveDestination'
+p3
+S'D:\\Projekte\\one\\5.tws'
+p4
+sS'metadata'
+p5
+(dp6
+sS'target'
+p7
+S'sugarcane'
+p8
+sS'storyPanel'
+p9
+(dp10
+S'widgets'
+p11
+(lp12
+(dp13
+S'selected'
+p14
+I00
+sS'pos'
+p15
+(lp16
+F601.9999999999999
+aF381.99999999999994
+asS'passage'
+p17
+(itiddlywiki
+Tiddler
+p18
+(dp20
+S'text'
+p21
+V<<if visited() <= 7>>[[Grasp]]\u000a\u000a<<endif>><<if visited() <= 8>>[[Breathe]]\u000a\u000a<<endif>><<if visited() <= 9>>[[Look]]\u000a\u000a<<endif>><<if visited() <= 4>>[[Scream]]\u000a\u000a<<endif>><<if visited() >= 10>>[[Wake up|Wake]]<<endif>>
+p22
+sS'title'
+p23
+VStart
+p24
+sS'modified'
+p25
+ctime
+struct_time
+p26
+((I2015
+I11
+I23
+I0
+I52
+I57
+I0
+I327
+I0
+tp27
+(dp28
+tp29
+Rp30
+sS'tags'
+p31
+(lp32
+sS'created'
+p33
+g26
+((I2015
+I11
+I22
+I15
+I39
+I14
+I6
+I326
+I0
+tp34
+(dp35
+tp36
+Rp37
+sbsa(dp38
+g14
+I00
+sg15
+(lp39
+I10
+aI150
+asg17
+(itiddlywiki
+Tiddler
+p40
+(dp41
+g21
+V5
+p42
+sg23
+VStoryTitle
+p43
+sg25
+g26
+((I2015
+I11
+I22
+I23
+I20
+I15
+I6
+I326
+I0
+tp44
+(dp45
+tp46
+Rp47
+sg31
+(lp48
+sg33
+g26
+((I2015
+I11
+I22
+I15
+I39
+I14
+I6
+I326
+I0
+tp49
+(dp50
+tp51
+Rp52
+sbsa(dp53
+g14
+I00
+sg15
+(lp54
+I10
+aI290
+asg17
+(itiddlywiki
+Tiddler
+p55
+(dp56
+g21
+S'Anonymous'
+p57
+sg23
+S'StoryAuthor'
+p58
+sg25
+g26
+((I2015
+I11
+I22
+I15
+I39
+I14
+I6
+I326
+I0
+tp59
+(dp60
+tp61
+Rp62
+sg31
+(lp63
+sg33
+g62
+sbsa(dp64
+g14
+I00
+sg15
+(lp65
+F69.16666666666664
+aF520.1666666666664
+asg17
+(itiddlywiki
+Tiddler
+p66
+(dp67
+g21
+Vbody {\u000a  /* Remove default styles */\u000a  background-color: #000000;\u000a  margin: 0;\u000a  padding: 0;\u000a  \u000a  /* Used to center the box */\u000a  text-align: center;\u000a}\u000a\u000a#passages {\u000a\u000a  /* Box width */\u000a  width: 400px;\u000amax-width: 400px;\u000a  border-left: 0px;\u000a  /* Center the box */\u000a  display: inline-block;\u000a  min-height: 40%;\u000a  margin:auto;\u000a  margin-top: 2%;\u000a  padding: 0px;\u000a  margin-left: 0;\u000a  margin-right: 0;\u000a/* automatic word break*/\u000a-moz-hyphens:auto;\u000a-ms-hyphens:auto;\u000a-webkit-hyphens:auto;\u000ahyphens:auto;\u000aword-wrap:break-word;\u000a}\u000a\u000a.passage {\u000a  margin: 0px;\u000a  /* Inner margin within the box */\u000a  padding: 2em;\u000a  /* Text formatting */\u000a  color: #c9c9c9;\u000a}\u000a\u000a#sidebar {\u000a  display:none;\u000a}\u000a\u000a#twitter {\u000a-webkit-border-radius: 14px;\u000a-moz-border-radius: 14px;\u000aborder-radius: 14px;\u000a background: #f5f8fa;\u000a    padding: 20px;\u000acolor: #000000;\u000a}\u000a\u000a#profile {\u000a\u000a-webkit-border-radius: 14px;\u000a-moz-border-radius: 14px;\u000aborder-radius: 14px;\u000a background: #202020;\u000a    padding: 20px;\u000acolor: #ffffff;\u000a}\u000a\u000a#twinput1 {\u000a-webkit-border-radius: 3x;\u000a-moz-border-radius: 3px;\u000aborder-radius: 3px;\u000apadding: 10px;\u000a background: #ffffff;\u000acolor: #8899a6;\u000awidth: 300px;\u000a\u000aborder-style:solid;\u000aborder-width:1px;	\u000aborder-color:#e1e8ed;\u000a}\u000a\u000a#twinput2 {\u000a-webkit-border-radius: 3x;\u000a-moz-border-radius: 3px;\u000aborder-radius: 3px;\u000apadding: 10px;\u000a background: #ffffff;\u000acolor: #000000;\u000awidth: 300px;\u000a\u000aborder-style:solid;\u000aborder-width:1px;	\u000aborder-color:#e1e8ed;\u000a}\u000a\u000a/* Links */\u000aa.internalLink, a.externalLink {\u000a  color: #55acee;\u000atext-decoration: none;\u000a}\u000aa.internalLink:hover, a.externalLink:hover {\u000a  color: #55acee;\u000atext-decoration: underline;\u000a}
+p68
+sg23
+VUntitled Stylesheet 1 #26263a #ff6666 1 1 1
+p69
+sg25
+g26
+((I2015
+I11
+I23
+I0
+I54
+I48
+I0
+I327
+I0
+tp70
+(dp71
+tp72
+Rp73
+sg31
+(lp74
+Vstylesheet
+p75
+asg33
+g26
+((I2015
+I3
+I31
+I1
+I36
+I36
+I1
+I90
+I1
+tp76
+(dp77
+tp78
+Rp79
+sbsa(dp80
+g14
+I00
+sg15
+(lp81
+F411.99999999999983
+aF214.9999999999999
+asg17
+(itiddlywiki
+Tiddler
+p82
+(dp83
+g21
+V<<if visited() >= 4>><<else if visited() is 3>>Your weak muscles fumble around into the darkness.\u000a\u000aYou are rapidly decending.\u000a\u000a<<else if visited() is 2>>Flinging around you try to keep yourself boyent.\u000a\u000a<<else>>You fling your arms around but can only hold onto nothingness.\u000a\u000aYou are drenched.\u000a\u000a<<endif>>[[Think|Start]]
+p84
+sg23
+VGrasp
+p85
+sg25
+g26
+((I2015
+I11
+I23
+I0
+I47
+I37
+I0
+I327
+I0
+tp86
+(dp87
+tp88
+Rp89
+sg31
+(lp90
+sg33
+g26
+((I2015
+I11
+I22
+I23
+I19
+I57
+I6
+I326
+I0
+tp91
+(dp92
+tp93
+Rp94
+sbsa(dp95
+g14
+I00
+sg15
+(lp96
+F795.3333333333334
+aF216.66666666666654
+asg17
+(itiddlywiki
+Tiddler
+p97
+(dp98
+g21
+V<<if visited() >= 3>><<else if visited() is 2>>You try to open your mouth but the pressure pulls your lungs apart.\u000a\u000aYou feel sick.\u000a\u000a<<else>>You take deep breaths.\u000a\u000aThe continues waves rip the air out of you.\u000a\u000a<<endif>>[[Think|Start]]
+p99
+sg23
+VBreathe
+p100
+sg25
+g26
+((I2015
+I11
+I23
+I0
+I42
+I57
+I0
+I327
+I0
+tp101
+(dp102
+tp103
+Rp104
+sg31
+(lp105
+sg33
+g26
+((I2015
+I11
+I22
+I23
+I19
+I57
+I6
+I326
+I0
+tp106
+(dp107
+tp108
+Rp109
+sbsa(dp110
+g14
+I00
+sg15
+(lp111
+F792.0000000000003
+aF568.3333333333333
+asg17
+(itiddlywiki
+Tiddler
+p112
+(dp113
+g21
+V<<if visited() >= 4>><<else if visited() is 3>>You are blind to your surrounding.\u000a\u000aYour dead eyes glare empty into the darkness.\u000a\u000a<<else if visited() is 2>>As you stare on your eyes burn white hot.\u000a\u000a<<else>>You look around and can see horizon in all directions.\u000a\u000aThe blue waves roll on around you.\u000a\u000a<<endif>>[[Think|Start]]
+p114
+sg23
+VLook
+p115
+sg25
+g26
+((I2015
+I11
+I23
+I0
+I41
+I48
+I0
+I327
+I0
+tp116
+(dp117
+tp118
+Rp119
+sg31
+(lp120
+sg33
+g26
+((I2015
+I11
+I22
+I23
+I19
+I58
+I6
+I326
+I0
+tp121
+(dp122
+tp123
+Rp124
+sbsa(dp125
+g14
+I00
+sg15
+(lp126
+F408.6666666666665
+aF569.9999999999991
+asg17
+(itiddlywiki
+Tiddler
+p127
+(dp128
+g21
+V<<if visited() >= 3>><<else if visited() is 2>>You tear open your mouth.\u000a\u000aBurning salt numbs your throat as you inhale water.\u000a\u000a<<else>>You scream out in pain.\u000a\u000aYou barely hear the soundwaves breaking on the horizon.\u000a\u000a<<endif>>[[Think|Start]]
+p129
+sg23
+VScream
+p130
+sg25
+g26
+((I2015
+I11
+I23
+I0
+I43
+I11
+I0
+I327
+I0
+tp131
+(dp132
+tp133
+Rp134
+sg31
+(lp135
+sg33
+g26
+((I2015
+I11
+I22
+I23
+I19
+I58
+I6
+I326
+I0
+tp136
+(dp137
+tp138
+Rp139
+sbsa(dp140
+g14
+I01
+sg15
+(lp141
+F605.0000000000001
+aF830.0000000000001
+asg17
+(itiddlywiki
+Tiddler
+p142
+(dp143
+g21
+VYou violently tear open your eyes. You are lying in your bed next to your girlfriend. You try to grasp out to her with numb hands but you look on in horror as your body does not respond. You try to scream for help but your lungs have crumpled. [[There is a shadow lurking in the corner of your vision]].
+p144
+sg23
+VWake
+p145
+sg25
+g26
+((I2015
+I12
+I21
+I10
+I3
+I35
+I0
+I355
+I0
+tp146
+(dp147
+tp148
+Rp149
+sg31
+(lp150
+sg33
+g26
+((I2015
+I11
+I22
+I23
+I20
+I29
+I6
+I326
+I0
+tp151
+(dp152
+tp153
+Rp154
+sbsa(dp155
+g14
+I00
+sg15
+(lp156
+F848.6666666666648
+aF1016.6666666666665
+asg17
+(itiddlywiki
+Tiddler
+p157
+(dp158
+g21
+VFull stop.
+p159
+sg23
+VThere is a shadow lurking in the corner of your vision
+p160
+sg25
+g26
+((I2015
+I11
+I22
+I23
+I29
+I35
+I6
+I326
+I0
+tp161
+(dp162
+tp163
+Rp164
+sg31
+(lp165
+sg33
+g26
+((I2015
+I11
+I22
+I23
+I29
+I28
+I6
+I326
+I0
+tp166
+(dp167
+tp168
+Rp169
+sbsasS'scale'
+p170
+F0.4000000000000001
+sS'snapping'
+p171
+I00
+ss.

@@ -1,0 +1,278 @@
+(dp0
+S'buildDestination'
+p1
+S''
+p2
+sS'saveDestination'
+p3
+S'D:\\Projekte\\one\\4.tws'
+p4
+sS'metadata'
+p5
+(dp6
+sS'target'
+p7
+S'sugarcane'
+p8
+sS'storyPanel'
+p9
+(dp10
+S'widgets'
+p11
+(lp12
+(dp13
+S'selected'
+p14
+I00
+sS'pos'
+p15
+(lp16
+I452
+aI146
+asS'passage'
+p17
+(itiddlywiki
+Tiddler
+p18
+(dp20
+S'text'
+p21
+V''Twine Spell-Checking Tool''\u000a\u000aThis is a little tool I've written with Twine. Just enter your text below and it will //spell-check// it for you!\u000a\u000a<<textinput $variable [[Spell-check this|2]] >>
+p22
+sS'title'
+p23
+VStart
+p24
+sS'modified'
+p25
+ctime
+struct_time
+p26
+((I2015
+I11
+I6
+I21
+I34
+I25
+I4
+I310
+I0
+tp27
+(dp28
+tp29
+Rp30
+sS'tags'
+p31
+(lp32
+sS'created'
+p33
+g26
+((I2015
+I11
+I6
+I20
+I50
+I39
+I4
+I310
+I0
+tp34
+(dp35
+tp36
+Rp37
+sbsa(dp38
+g14
+I00
+sg15
+(lp39
+I10
+aI150
+asg17
+(itiddlywiki
+Tiddler
+p40
+(dp41
+g21
+V4
+p42
+sg23
+VStoryTitle
+p43
+sg25
+g26
+((I2015
+I11
+I6
+I20
+I50
+I45
+I4
+I310
+I0
+tp44
+(dp45
+tp46
+Rp47
+sg31
+(lp48
+sg33
+g26
+((I2015
+I11
+I6
+I20
+I50
+I39
+I4
+I310
+I0
+tp49
+(dp50
+tp51
+Rp52
+sbsa(dp53
+g14
+I00
+sg15
+(lp54
+I10
+aI290
+asg17
+(itiddlywiki
+Tiddler
+p55
+(dp56
+g21
+S'Anonymous'
+p57
+sg23
+S'StoryAuthor'
+p58
+sg25
+g26
+((I2015
+I11
+I6
+I20
+I50
+I39
+I4
+I310
+I0
+tp59
+(dp60
+tp61
+Rp62
+sg31
+(lp63
+sg33
+g62
+sbsa(dp64
+g14
+I00
+sg15
+(lp65
+F632.0
+aF311.0
+asg17
+(itiddlywiki
+Tiddler
+p66
+(dp67
+g21
+V''I've checked your spell:''\u000a\u000aHm, I'm not so sure if that spell is going to work, why not try this one instead:\u000a\u000a\u000a@@color:magenta;//<<print either("Ignit","Imper","Divid","Lor","Ips","Fidel","Parat","Vit","Infer","Glad","Sanct","Lun","Sup","Prophix","Por","Pseus","Nocul","Matent","Mater","Lum","Lemat","Incont","Hum","Falt","Cophor","Corupt","Conrit","Circul","Accel","Acat","Abil","Botan","Ian","Em","Lemat","Lation","Gravit","Necrot","Noctum","Oyr","Uil","Levit","Mag","Xanat","Xer")>><<print either("ius","erous","is","ictum","ecto","empra","endius","undis","ictus","iteus","um","uno","or","ae","ana","inar","eo","em","us","eus","ia","io")>> <<if random(1,5) < 5>><<print either("Ignit","Imper","Divid","Lor","Ips","Fidel","Parat","Vit","Infer","Glad","Sanct","Lun","Sup","Prophix","Por","Pseus","Nocul","Matent","Mater","Lum","Lemat","Incont","Hum","Falt","Cophor","Corupt","Conrit","Circul","Accel","Acat","Abil","Botan","Ian","Em","Lemat","Lation","Gravit","Necrot","Noctum","Oyr","Uil","Levit","Mag","Xanat","Xer")>><<print either("ius","erous","is","ictum","ecto","empra","endius","undis","ictus","iteus","um","uno","or","ae","ana","inar","eo","em","us","eus","ia","io")>><<endif>>//@@\u000a\u000a\u000a''Try checking another spell:''\u000a\u000a<<textinput $variable [[Spell-check this|2]] >>
+p68
+sg23
+V2
+p69
+sg25
+g26
+((I2015
+I11
+I6
+I21
+I30
+I22
+I4
+I310
+I0
+tp70
+(dp71
+tp72
+Rp73
+sg31
+(lp74
+sg33
+g26
+((I2015
+I11
+I6
+I20
+I53
+I22
+I4
+I310
+I0
+tp75
+(dp76
+tp77
+Rp78
+sbsa(dp79
+g14
+I00
+sg15
+(lp80
+F135.0
+aF290.49999999999994
+asg17
+(itiddlywiki
+Tiddler
+p81
+(dp82
+g21
+Vbody {\u000a  /* Remove default styles \u000a  background-color: #010101;*/\u000a  margin: 0;\u000a  padding: 0;\u000a  \u000a  /* Used to center the box */\u000a  text-align: center;\u000a}\u000a\u000a#passages {\u000a\u000a  /* Box width */\u000a  width: auto;\u000a  border-left: 0px;\u000a  /* Center the box */\u000a  display: inline-block;\u000a  min-height: 40%;\u000a  margin:auto;\u000a  margin-top: 2%;\u000a  padding: 0px;\u000a  margin-left: 0;\u000a  margin-right: 0;\u000a}\u000a\u000a.passage {\u000a  margin: 0px;\u000a  /* Inner margin within the box */\u000a  padding: 2em;\u000a  /* Text formatting */\u000a  \u000a}\u000a\u000a#sidebar {\u000a  display:none;\u000a}\u000a
+p83
+sg23
+VUntitled Stylesheet 1
+p84
+sg25
+g26
+((I2015
+I11
+I6
+I21
+I27
+I12
+I4
+I310
+I0
+tp85
+(dp86
+tp87
+Rp88
+sg31
+(lp89
+Vstylesheet
+p90
+asg33
+g26
+((I2015
+I3
+I31
+I1
+I36
+I36
+I1
+I90
+I1
+tp91
+(dp92
+tp93
+Rp94
+sbsasS'scale'
+p95
+I1
+sS'snapping'
+p96
+I00
+ss.

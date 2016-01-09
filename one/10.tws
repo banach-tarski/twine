@@ -1,0 +1,265 @@
+(dp0
+S'buildDestination'
+p1
+VC:\u005cUsers\u005cvoec\u005cDocuments\u005cone\u005c10.html
+p2
+sS'saveDestination'
+p3
+S'C:\\Users\\voec\\Documents\\one\\10.tws'
+p4
+sS'metadata'
+p5
+(dp6
+sS'target'
+p7
+S'sugarcane'
+p8
+sS'storyPanel'
+p9
+(dp10
+S'widgets'
+p11
+(lp12
+(dp13
+S'selected'
+p14
+I00
+sS'pos'
+p15
+(lp16
+I10
+aI150
+asS'passage'
+p17
+(itiddlywiki
+Tiddler
+p18
+(dp20
+S'text'
+p21
+S'Untitled Story'
+p22
+sS'title'
+p23
+S'StoryTitle'
+p24
+sS'modified'
+p25
+ctime
+struct_time
+p26
+((I2015
+I12
+I21
+I20
+I35
+I33
+I0
+I355
+I0
+tp27
+(dp28
+tp29
+Rp30
+sS'tags'
+p31
+(lp32
+sS'created'
+p33
+g30
+sbsa(dp34
+g14
+I00
+sg15
+(lp35
+I10
+aI290
+asg17
+(itiddlywiki
+Tiddler
+p36
+(dp37
+g21
+S'Anonymous'
+p38
+sg23
+S'StoryAuthor'
+p39
+sg25
+g26
+((I2015
+I12
+I21
+I20
+I35
+I33
+I0
+I355
+I0
+tp40
+(dp41
+tp42
+Rp43
+sg31
+(lp44
+sg33
+g43
+sbsa(dp45
+g14
+I00
+sg15
+(lp46
+F10.0
+aF787.0
+asg17
+(itiddlywiki
+Tiddler
+p47
+(dp48
+g21
+VMerry christmas\u000a\u000a[[Start|1]]\u000a\u000a(Trigger warning: Sexual violence)
+p49
+sg23
+VStart
+p50
+sg25
+g26
+((I2015
+I12
+I23
+I0
+I29
+I56
+I2
+I357
+I0
+tp51
+(dp52
+tp53
+Rp54
+sg31
+(lp55
+sg33
+g26
+((I2015
+I12
+I21
+I20
+I42
+I56
+I0
+I355
+I0
+tp56
+(dp57
+tp58
+Rp59
+sbsa(dp60
+g14
+I01
+sg15
+(lp61
+F515.0
+aF307.0
+asg17
+(itiddlywiki
+Tiddler
+p62
+(dp63
+g21
+V\u000a\u000a<<if visited() < 8>>[[Caress|1]]\u000a\u000a<<endif>><<if visited() > 2 && visited() < 11>>[[Kiss|1]]\u000a\u000a<<endif>><<if visited() > 3 && visited() < 13>>[[Touch|1]]\u000a\u000a<<endif>><<if visited() > 5 && visited() < 15>>[[Grab|1]]\u000a\u000a<<endif>><<if visited() > 8 && visited() < 16>>[[Scratch|1]]\u000a\u000a<<endif>><<if visited() > 13 && visited() < 19>>[[Hit|1]]\u000a\u000a<<endif>><<if visited() > 14 && visited() < 20>>[[Shove|1]]\u000a\u000a<<endif>><<if visited() > 16 && visited() < 21>>[[Strangle|1]]\u000a\u000a<<endif>><<if visited() > 19 && visited() < 23>>[[Cut|1]]\u000a\u000a<<endif>><<if visited() > 10 && visited() < 26>>[[Fuck|1]]\u000a\u000a<<endif>><<if visited() > 25>>You deserved it.\u000a\u000a<<endif>>\u000a\u000a
+p64
+sg23
+V1
+p65
+sg25
+g26
+((I2015
+I12
+I23
+I0
+I58
+I38
+I2
+I357
+I0
+tp66
+(dp67
+tp68
+Rp69
+sg31
+(lp70
+sg33
+g26
+((I2015
+I12
+I21
+I20
+I43
+I32
+I0
+I355
+I0
+tp71
+(dp72
+tp73
+Rp74
+sbsa(dp75
+g14
+I00
+sg15
+(lp76
+F27.4999999999998
+aF13.000000000000398
+asg17
+(itiddlywiki
+Tiddler
+p77
+(dp78
+g21
+Vbody {\u000a  /* Remove default styles */\u000a  background-color: #000000;\u000a  margin: 0;\u000a  padding: 0;\u000a  \u000a  /* Used to center the box */\u000a  text-align: center;\u000a}\u000a\u000a#passages {\u000a\u000a  /* Box width */\u000a  width: 400px;\u000amax-width: 400px;\u000a  border-left: 0px;\u000a  /* Center the box */\u000a  display: inline-block;\u000a  min-height: 40%;\u000a  margin:auto;\u000a  margin-top: 2%;\u000a  padding: 0px;\u000a  margin-left: 0;\u000a  margin-right: 0;\u000a/* automatic word break*/\u000a-moz-hyphens:auto;\u000a-ms-hyphens:auto;\u000a-webkit-hyphens:auto;\u000ahyphens:auto;\u000aword-wrap:break-word;\u000a}\u000a\u000a.passage {\u000a  margin: 0px;\u000a  /* Inner margin within the box */\u000a  padding: 2em;\u000a  /* Text formatting */\u000a}\u000a\u000a#sidebar {\u000a  display: none;\u000a}\u000a
+p79
+sg23
+VUntitled Stylesheet 1 #26263a #ff6666 1 1 1 1 1
+p80
+sg25
+g26
+((I2015
+I12
+I23
+I1
+I2
+I14
+I2
+I357
+I0
+tp81
+(dp82
+tp83
+Rp84
+sg31
+(lp85
+Vstylesheet
+p86
+asg33
+g26
+((I2015
+I3
+I31
+I1
+I36
+I36
+I1
+I90
+I1
+tp87
+(dp88
+tp89
+Rp90
+sbsasS'scale'
+p91
+I1
+sS'snapping'
+p92
+I00
+ss.

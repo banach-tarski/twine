@@ -1,0 +1,1417 @@
+(dp0
+S'buildDestination'
+p1
+S''
+p2
+sS'saveDestination'
+p3
+S'D:\\Projekte\\one\\2.tws'
+p4
+sS'metadata'
+p5
+(dp6
+sS'target'
+p7
+S'sugarcane'
+p8
+sS'storyPanel'
+p9
+(dp10
+S'widgets'
+p11
+(lp12
+(dp13
+S'selected'
+p14
+I00
+sS'pos'
+p15
+(lp16
+I207
+aI68
+asS'passage'
+p17
+(itiddlywiki
+Tiddler
+p18
+(dp20
+S'text'
+p21
+V<<twiticon>>\u000a\u000aI should make a Twitter account...<<set $fuck to 0>>\u000a\u000a[[...butIdontknow@@letter-spacing:-1px;itmakesmefeeldisgustedbymyself@@@@letter-spacing:-2px;wastingmorespaceandresourcesthanIalreadyamIdontthinkanyonecaresandtobehonestImnotsureIdoeither@@@@letter-spacing:-3px;andIdontwantanyonetoenablemyconstantselfloathingbecausethatswhatImgoodatyoupiecesofshitIwishIwaspartofyouIwouldliketosayyoumakemefeelworthlessbutthatsallmebecauseIcantgetanythingworthwhiledonebecauseallthisshitIconstantlythinkaboutpressureonthetemplesIwishIcouldjustfinallyletgowhyismyfacesofuckedupIwishIwasyouandyouwouldntexistsorryfortryingtobefriendswithyouIwasdumbandstillamsofuckyourselfIdidtrymybestatleastIhopebuttherearelittlemaninsidemyheadandnowIhavetowhineaboutitlikeaprivilegedteenageschoolgirlthatIwishIwouldnthavenevercouldnthavenotbeenImnotevensurewhatisrealanymoreIfeellikemyhandsaredisappearing@@|friend]]
+p22
+sS'title'
+p23
+VStart
+p24
+sS'modified'
+p25
+ctime
+struct_time
+p26
+((I2015
+I10
+I30
+I15
+I46
+I57
+I4
+I303
+I0
+tp27
+(dp28
+tp29
+Rp30
+sS'tags'
+p31
+(lp32
+sS'created'
+p33
+g26
+((I2015
+I10
+I21
+I23
+I33
+I37
+I2
+I294
+I1
+tp34
+(dp35
+tp36
+Rp37
+sbsa(dp38
+g14
+I00
+sg15
+(lp39
+F10.0
+aF150.0
+asg17
+(itiddlywiki
+Tiddler
+p40
+(dp41
+g21
+V2
+p42
+sg23
+VStoryTitle
+p43
+sg25
+g26
+((I2015
+I10
+I21
+I23
+I33
+I49
+I2
+I294
+I1
+tp44
+(dp45
+tp46
+Rp47
+sg31
+(lp48
+sg33
+g26
+((I2015
+I10
+I21
+I23
+I33
+I37
+I2
+I294
+I1
+tp49
+(dp50
+tp51
+Rp52
+sbsa(dp53
+g14
+I00
+sg15
+(lp54
+I10
+aI290
+asg17
+(itiddlywiki
+Tiddler
+p55
+(dp56
+g21
+S'Anonymous'
+p57
+sg23
+S'StoryAuthor'
+p58
+sg25
+g26
+((I2015
+I10
+I21
+I23
+I33
+I37
+I2
+I294
+I1
+tp59
+(dp60
+tp61
+Rp62
+sg31
+(lp63
+sg33
+g62
+sbsa(dp64
+g14
+I00
+sg15
+(lp65
+F17.5
+aF438.49999999999994
+asg17
+(itiddlywiki
+Tiddler
+p66
+(dp67
+g21
+Vbody {\u000a  /* Remove default styles */\u000a  background-color: #050403;\u000a  margin: 0;\u000a  padding: 0;\u000a  \u000a  /* Used to center the box */\u000a  text-align: center;\u000a}\u000a\u000a#passages {\u000a\u000a  /* Box width */\u000a  width: 600px;\u000amax-width: 600px;\u000a  border-left: 0px;\u000a  /* Center the box */\u000a  display: inline-block;\u000a  min-height: 40%;\u000a  margin:auto;\u000a  margin-top: 2%;\u000a  padding: 0px;\u000a  margin-left: 0;\u000a  margin-right: 0;\u000a/* automatic word break*/\u000a-moz-hyphens:auto;\u000a-ms-hyphens:auto;\u000a-webkit-hyphens:auto;\u000ahyphens:auto;\u000aword-wrap:break-word;\u000a}\u000a\u000a.passage {\u000a  margin: 0px;\u000a  /* Inner margin within the box */\u000a  padding: 2em;\u000a  /* Text formatting */\u000a  color: #c9c9c9;\u000a}\u000a\u000a#sidebar {\u000a  display:none;\u000a}\u000a\u000a#twitter {\u000a-webkit-border-radius: 14px;\u000a-moz-border-radius: 14px;\u000aborder-radius: 14px;\u000a background: #f5f8fa;\u000a    padding: 20px;\u000acolor: #000000;\u000a}\u000a\u000a#profile {\u000a\u000a-webkit-border-radius: 14px;\u000a-moz-border-radius: 14px;\u000aborder-radius: 14px;\u000a background: #202020;\u000a    padding: 20px;\u000acolor: #ffffff;\u000a}\u000a\u000a#twinput1 {\u000a-webkit-border-radius: 3x;\u000a-moz-border-radius: 3px;\u000aborder-radius: 3px;\u000apadding: 10px;\u000a background: #ffffff;\u000acolor: #8899a6;\u000awidth: 300px;\u000a\u000aborder-style:solid;\u000aborder-width:1px;	\u000aborder-color:#e1e8ed;\u000a}\u000a\u000a#twinput2 {\u000a-webkit-border-radius: 3x;\u000a-moz-border-radius: 3px;\u000aborder-radius: 3px;\u000apadding: 10px;\u000a background: #ffffff;\u000acolor: #000000;\u000awidth: 300px;\u000a\u000aborder-style:solid;\u000aborder-width:1px;	\u000aborder-color:#e1e8ed;\u000a}\u000a\u000a/* Links */\u000aa.internalLink, a.externalLink {\u000a  color: #55acee;\u000atext-decoration: none;\u000a}\u000aa.internalLink:hover, a.externalLink:hover {\u000a  color: #55acee;\u000atext-decoration: underline;\u000a}
+p68
+sg23
+VUntitled Stylesheet 1 #26263a #ff6666 1 1
+p69
+sg25
+g26
+((I2015
+I10
+I25
+I17
+I8
+I16
+I6
+I298
+I0
+tp70
+(dp71
+tp72
+Rp73
+sg31
+(lp74
+Vstylesheet
+p75
+asg33
+g26
+((I2015
+I3
+I31
+I1
+I36
+I36
+I1
+I90
+I1
+tp76
+(dp77
+tp78
+Rp79
+sbsa(dp80
+g14
+I00
+sg15
+(lp81
+F191.0
+aF1205.0000000000002
+asg17
+(itiddlywiki
+Tiddler
+p82
+(dp83
+g21
+V[[< Back|previous()]]\u000a\u000aThese Terms of Service (\u201cTerms\u201d) govern your access to and use of our Services, including our various websites, SMS, APIs, email notifications, applications, buttons, widgets, ads, commerce services (the \u201cTwitter Services\u201d), and our other covered services that link to these Terms (collectively, the \u201cServices\u201d), and any information, text, graphics, photos or other materials uploaded, downloaded or appearing on the Services (collectively referred to as \u201cContent\u201d). Your access to and use of the Services are conditioned on your acceptance of and compliance with these Terms. By accessing or using the Services you agree to be bound by these Terms.\u000a1. Basic Terms\u000a\u000aYou are responsible for your use of the Services, for any Content you post to the Services, and for any consequences thereof. Most Content you submit, post, or display through the Twitter Services is public by default and will be able to be viewed by other users and through third party services and websites. Learn more here, and go to the account settings page to control who sees your Content. You should only provide Content that you are comfortable sharing with others under these Terms.\u000a\u000a    Tip: What you say on the Twitter Services may be viewed all around the world instantly. You are what you Tweet!\u000a\u000aYou may use the Services only if you can form a binding contract with Twitter and are not a person barred from receiving services under the laws of the United States or other applicable jurisdiction. If you are accepting these Terms and using the Services on behalf of a company, organization, government, or other legal entity, you represent and warrant that you are authorized to do so. You may use the Services only in compliance with these Terms and all applicable local, state, national, and international laws, rules and regulations.\u000a\u000a\u000aThe Services that Twitter provides are always evolving and the form and nature of the Services that Twitter provides may change from time to time without prior notice to you. In addition, Twitter may stop (permanently or temporarily) providing the Services (or any features within the Services) to you or to users generally and may not be able to provide you with prior notice. We also retain the right to create limits on use and storage at our sole discretion at any time without prior notice to you.\u000a\u000a\u000aThe Services may include advertisements, which may be targeted to the Content or information on the Services, queries made through the Services, or any other information. The types and extent of advertising by Twitter on the Services are subject to change. In consideration for Twitter granting you access to and use of the Services, you agree that Twitter and its third party providers and partners may place such advertising on the Services or in connection with the display of Content or information from the Services whether submitted by you or others.\u000a2. Privacy\u000a\u000aAny information that you or other users provide to Twitter is subject to our Privacy Policy, which governs our collection and use of your information. You understand that through your use of the Services you consent to the collection and use (as set forth in the Privacy Policy) of this information, including the transfer of this information to the United States, Ireland, and/or other countries for storage, processing and use by Twitter. As part of providing you the Services, we may need to provide you with certain communications, such as service announcements and administrative messages. These communications are considered part of the Services and your account, which you may not be able to opt-out from receiving.\u000a\u000a    Tip: You can control most communications from the Twitter Services, including notifications about activity related to you, your Tweets, Retweets, and network, and updates from Twitter. Please see your settings for email and mobile notifications for more.\u000a\u000a 3. Passwords\u000a\u000aYou are responsible for safeguarding the password that you use to access the Services and for any activities or actions under your password. We encourage you to use \u201cstrong\u201d passwords (passwords that use a combination of upper and lower case letters, numbers and symbols) with your account. Twitter cannot and will not be liable for any loss or damage arising from your failure to comply with the above.\u000a4. Content on the Services\u000a\u000aAll Content, whether publicly posted or privately transmitted, is the sole responsibility of the person who originated such Content. We may not monitor or control the Content posted via the Services and, we cannot take responsibility for such Content. Any use or reliance on any Content or materials posted via the Services or obtained by you through the Services is at your own risk.\u000a\u000a\u000aWe do not endorse, support, represent or guarantee the completeness, truthfulness, accuracy, or reliability of any Content or communications posted via the Services or endorse any opinions expressed via the Services. You understand that by using the Services, you may be exposed to Content that might be offensive, harmful, inaccurate or otherwise inappropriate, or in some cases, postings that have been mislabeled or are otherwise deceptive. Under no circumstances will Twitter be liable in any way for any Content, including, but not limited to, any errors or omissions in any Content, or any loss or damage of any kind incurred as a result of the use of any Content posted, emailed, transmitted or otherwise made available via the Services or broadcast elsewhere.\u000a5. Your Rights\u000a\u000aYou retain your rights to any Content you submit, post or display on or through the Services. By submitting, posting or displaying Content on or through the Services, you grant us a worldwide, non-exclusive, royalty-free license (with the right to sublicense) to use, copy, reproduce, process, adapt, modify, publish, transmit, display and distribute such Content in any and all media or distribution methods (now known or later developed).\u000a\u000a    Tip: This license is you authorizing us to make your Tweets on the Twitter Services available to the rest of the world and to let others do the same.\u000a\u000aYou agree that this license includes the right for Twitter to provide, promote, and improve the Services and to make Content submitted to or through the Services available to other companies, organizations or individuals who partner with Twitter for the syndication, broadcast, distribution or publication of such Content on other media and services, subject to our terms and conditions for such Content use.\u000a\u000a    Tip: Twitter has an evolving set of rules for how ecosystem partners can interact with your Content on the Twitter Services. These rules exist to enable an open ecosystem with your rights in mind. But what\u2019s yours is yours \u2013 you own your Content (and your photos are part of that Content).\u000a\u000aSuch additional uses by Twitter, or other companies, organizations or individuals who partner with Twitter, may be made with no compensation paid to you with respect to the Content that you submit, post, transmit or otherwise make available through the Services.\u000a\u000a\u000aWe may modify or adapt your Content in order to transmit, display or distribute it over computer networks and in various media and/or make changes to your Content as are necessary to conform and adapt that Content to any requirements or limitations of any networks, devices, services or media.\u000a\u000a\u000aYou are responsible for your use of the Services, for any Content you provide, and for any consequences thereof, including the use of your Content by other users and our third party partners. You understand that your Content may be syndicated, broadcast, distributed, or published by our partners and if you do not have the right to submit Content for such use, it may subject you to liability. Twitter will not be responsible or liable for any use of your Content by Twitter in accordance with these Terms. You represent and warrant that you have all the rights, power and authority necessary to grant the rights granted herein to any Content that you submit.\u000a6. Your License To Use the Services\u000a\u000aTwitter gives you a personal, worldwide, royalty-free, non-assignable and non-exclusive license to use the software that is provided to you by Twitter as part of the Services. This license is for the sole purpose of enabling you to use and enjoy the benefit of the Services as provided by Twitter, in the manner permitted by these Terms.\u000a7. Twitter Rights\u000a\u000aAll right, title, and interest in and to the Services (excluding Content provided by users) are and will remain the exclusive property of Twitter and its licensors. The Services are protected by copyright, trademark, and other laws of both the United States and foreign countries. Nothing in the Terms gives you a right to use the Twitter name or any of the Twitter trademarks, logos, domain names, and other distinctive brand features. Any feedback, comments, or suggestions you may provide regarding Twitter, or the Services is entirely voluntary and we will be free to use such feedback, comments or suggestions as we see fit and without any obligation to you.\u000a8. Restrictions on Content and Use of the Services\u000a\u000aPlease review the Twitter Rules (which are part of these Terms) to better understand what is prohibited on the Twitter Services. We reserve the right at all times (but will not have an obligation) to remove or refuse to distribute any Content on the Services, to suspend or terminate users, and to reclaim usernames without liability to you. We also reserve the right to access, read, preserve, and disclose any information as we reasonably believe is necessary to (i) satisfy any applicable law, regulation, legal process or governmental request, (ii) enforce the Terms, including investigation of potential violations hereof, (iii) detect, prevent, or otherwise address fraud, security or technical issues, (iv) respond to user support requests, or (v) protect the rights, property or safety of Twitter, its users and the public.\u000a\u000a    Tip: Twitter does not disclose personally identifying information to third parties except in accordance with our Privacy Policy.\u000a\u000aExcept as permitted through the Twitter Services, these Terms, or the terms provided on dev.twitter.com, you have to use the Twitter API if you want to reproduce, modify, create derivative works, distribute, sell, transfer, publicly display, publicly perform, transmit, or otherwise use the Twitter Services or Content on the Twitter Services.\u000a\u000a    Tip: We encourage and permit broad re-use of Content on the Twitter Services. The Twitter API exists to enable this.\u000a\u000aIf you use commerce features of the Twitter Services that require credit or debit card information, such as our Buy Now feature, you agree to our Twitter Commerce Terms.\u000a\u000a\u000aYou may not do any of the following while accessing or using the Services: (i) access, tamper with, or use non-public areas of the Services, Twitter\u2019s computer systems, or the technical delivery systems of Twitter\u2019s providers; (ii) probe, scan, or test the vulnerability of any system or network or breach or circumvent any security or authentication measures; (iii) access or search or attempt to access or search the Services by any means (automated or otherwise) other than through our currently available, published interfaces that are provided by Twitter (and only pursuant to the applicable terms and conditions), unless you have been specifically allowed to do so in a separate agreement with Twitter (NOTE: crawling the Services is permissible if done in accordance with the provisions of the robots.txt file, however, scraping the Services without the prior consent of Twitter is expressly prohibited); (iv) forge any TCP/IP packet header or any part of the header information in any email or posting, or in any way use the Services to send altered, deceptive or false source-identifying information; or (v) interfere with, or disrupt, (or attempt to do so), the access of any user, host or network, including, without limitation, sending a virus, overloading, flooding, spamming, mail-bombing the Services, or by scripting the creation of Content in such a manner as to interfere with or create an undue burden on the Services.\u000a9. Copyright Policy\u000a\u000aTwitter respects the intellectual property rights of others and expects users of the Services to do the same. We will respond to notices of alleged copyright infringement that comply with applicable law and are properly provided to us. If you believe that your Content has been copied in a way that constitutes copyright infringement, please provide us with the following information: (i) a physical or electronic signature of the copyright owner or a person authorized to act on their behalf; (ii) identification of the copyrighted work claimed to have been infringed; (iii) identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit us to locate the material; (iv) your contact information, including your address, telephone number, and an email address; (v) a statement by you that you have a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; and (vi) a statement that the information in the notification is accurate, and, under penalty of perjury, that you are authorized to act on behalf of the copyright owner.\u000a\u000a\u000aWe reserve the right to remove Content alleged to be infringing without prior notice, at our sole discretion, and without liability to you. In appropriate circumstances, Twitter will also terminate a user\u2019s account if the user is determined to be a repeat infringer. Under the U.S. Digital Millennium Copyright Act, our designated copyright agent for notice of alleged copyright infringement appearing on the Services is:\u000aTwitter, Inc.\u000aAttn: Copyright Agent\u000a1355 Market Street, Suite 900\u000aSan Francisco, CA 94103\u000aReports: https://support.twitter.com/forms/dmca\u000aEmail: copyright@twitter.com\u000a10. Ending These Terms\u000a\u000aThe Terms will continue to apply until terminated by either you or Twitter as follows.\u000a\u000a\u000aYou may end your legal agreement with Twitter at any time for any or no reason by deactivating your accounts and discontinuing your use of the Services. You do not need to specifically inform Twitter when you stop using the Services. If you stop using the Services without deactivating your accounts, your accounts may be deactivated due to prolonged inactivity under our Inactive Account Policy.\u000a\u000a\u000aWe may suspend or terminate your accounts or cease providing you with all or part of the Services at any time for any or no reason, including, but not limited to, if we reasonably believe: (i) you have violated these Terms or the Twitter Rules, (ii) you create risk or possible legal exposure for us; or (iii) our provision of the Services to you is no longer commercially viable. We will make reasonable efforts to notify you by the email address associated with your account or the next time you attempt to access your account.\u000a\u000a\u000aIn all such cases, the Terms shall terminate, including, without limitation, your license to use the Services, except that the following sections shall continue to apply: 4, 5, 7, 8, 10, 11, and 12.\u000a\u000a\u000aNothing in this section shall affect Twitter\u2019s rights to change, limit or stop the provision of the Services without prior notice, as provided above in section 1.\u000a11.Disclaimers and Limitations of Liability\u000a\u000aPlease read this section carefully since it limits the liability of Twitter and its parents, subsidiaries, affiliates, related companies, officers, directors, employees, agents, representatives, partners, and licensors (collectively, the \u201cTwitter Entities\u201d). Each of the subsections below only applies up to the maximum extent permitted under applicable law. Some jurisdictions do not allow the disclaimer of implied warranties or the limitation of liability in contracts, and as a result the contents of this section may not apply to you. Nothing in this section is intended to limit any rights you may have which may not be lawfully limited.\u000aA. The Services are Available \u201cAS-IS\u201d\u000a\u000aYour access to and use of the Services or any Content are at your own risk. You understand and agree that the Services are provided to you on an \u201cAS IS\u201d and \u201cAS AVAILABLE\u201d basis. Without limiting the foregoing, to the maximum extent permitted under applicable law, THE TWITTER ENTITIES DISCLAIM ALL WARRANTIES AND CONDITIONS, WHETHER EXPRESS OR IMPLIED, OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.\u000a\u000a\u000aThe Twitter Entities make no warranty or representation and disclaim all responsibility and liability for: (i) the completeness, accuracy, availability, timeliness, security or reliability of the Services or any Content; (ii) any harm to your computer system, loss of data, or other harm that results from your access to or use of the Services or any Content; (iii) the deletion of, or the failure to store or to transmit, any Content and other communications maintained by the Services; and (iv) whether the Services will meet your requirements or be available on an uninterrupted, secure, or error-free basis. No advice or information, whether oral or written, obtained from the Twitter Entities or through the Services, will create any warranty or representation not expressly made herein.\u000aB. Links\u000a\u000aThe Services may contain links to third-party websites or resources. You acknowledge and agree that the Twitter Entities are not responsible or liable for: (i) the availability or accuracy of such websites or resources; or (ii) the content, products, or services on or available from such websites or resources. Links to such websites or resources do not imply any endorsement by the Twitter Entities of such websites or resources or the content, products, or services available from such websites or resources. You acknowledge sole responsibility for and assume all risk arising from your use of any such websites or resources.\u000aC. Limitation of Liability\u000a\u000aTO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE TWITTER ENTITIES SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, OR ANY LOSS OF PROFITS OR REVENUES, WHETHER INCURRED DIRECTLY OR INDIRECTLY, OR ANY LOSS OF DATA, USE, GOOD-WILL, OR OTHER INTANGIBLE LOSSES, RESULTING FROM (i) YOUR ACCESS TO OR USE OF OR INABILITY TO ACCESS OR USE THE SERVICES; (ii) ANY CONDUCT OR CONTENT OF ANY THIRD PARTY ON THE SERVICES, INCLUDING WITHOUT LIMITATION, ANY DEFAMATORY, OFFENSIVE OR ILLEGAL CONDUCT OF OTHER USERS OR THIRD PARTIES; (iii) ANY CONTENT OBTAINED FROM THE SERVICES; OR (iv) UNAUTHORIZED ACCESS, USE OR ALTERATION OF YOUR TRANSMISSIONS OR CONTENT.\u000a\u000a\u000aIN NO EVENT SHALL THE AGGREGATE LIABILITY OF THE TWITTER ENTITIES EXCEED THE GREATER OF ONE HUNDRED U.S. DOLLARS (U.S. $100.00) OR THE AMOUNT YOU PAID TWITTER, IF ANY, IN THE PAST SIX MONTHS FOR THE SERVICES GIVING RISE TO THE CLAIM.\u000a\u000a\u000aTHE LIMITATIONS OF THIS SUBSECTION SHALL APPLY TO ANY THEORY OF LIABILITY, WHETHER BASED ON WARRANTY, CONTRACT, STATUTE, TORT (INCLUDING NEGLIGENCE) OR OTHERWISE, AND WHETHER OR NOT THE TWITTER ENTITIES HAVE BEEN INFORMED OF THE POSSIBILITY OF ANY SUCH DAMAGE, AND EVEN IF A REMEDY SET FORTH HEREIN IS FOUND TO HAVE FAILED OF ITS ESSENTIAL PURPOSE.\u000a12. General Terms\u000aA. Waiver and Severability\u000a\u000aThe failure of Twitter to enforce any right or provision of these Terms will not be deemed a waiver of such right or provision. In the event that any provision of these Terms is held to be invalid or unenforceable, then that provision will be limited or eliminated to the minimum extent necessary, and the remaining provisions of these Terms will remain in full force and effect.\u000aB. Controlling Law and Jurisdiction\u000a\u000aThese Terms and any action related thereto will be governed by the laws of the State of California without regard to or application of its conflict of law provisions or your state or country of residence. All claims, legal proceedings or litigation arising in connection with the Services will be brought solely in the federal or state courts located in San Francisco County, California, United States, and you consent to the jurisdiction of and venue in such courts and waive any objection as to inconvenient forum.\u000a\u000a\u000aIf you are a federal, state, or local government entity in the United States using the Services in your official capacity and legally unable to accept the controlling law, jurisdiction or venue clauses above, then those clauses do not apply to you. For such U.S. federal government entities, these Terms and any action related thereto will be governed by the laws of the United States of America (without reference to conflict of laws) and, in the absence of federal law and to the extent permitted under federal law, the laws of the State of California (excluding choice of law).\u000aC. Entire Agreement\u000a\u000aThese Terms, including the Twitter Rules for the Twitter Services, and our Privacy Policy are the entire and exclusive agreement between Twitter and you regarding the Services (excluding any services for which you have a separate agreement with Twitter that is explicitly in addition or in place of these Terms), and these Terms supersede and replace any prior agreements between Twitter and you regarding the Services. Other than members of the group of companies of which Twitter, Inc. is the parent, no other person or company will be third party beneficiaries to the Terms.\u000a\u000a\u000aWe may revise these Terms from time to time, the most current version will always be at twitter.com/tos. If the revision, in our sole discretion, is material we will notify you via an @Twitter update or e-mail to the email associated with your account. By continuing to access or use the Services after those revisions become effective, you agree to be bound by the revised Terms.\u000a\u000a\u000aIf you live in the United States, these Terms are an agreement between you and Twitter, Inc., 1355 Market Street, Suite 900, San Francisco, CA 94103 U.S.A. If you live outside the United States, your agreement is with Twitter International Company, an Irish company with its registered office at The Academy, 42 Pearse Street, Dublin 2, Ireland. If you have any questions about these Terms, please contact us.\u000a\u000a\u000aEffective: May 18, 2015
+p84
+sg23
+Vterms
+p85
+sg25
+g26
+((I2015
+I10
+I25
+I15
+I35
+I7
+I6
+I298
+I0
+tp86
+(dp87
+tp88
+Rp89
+sg31
+(lp90
+sg33
+g26
+((I2015
+I10
+I21
+I23
+I51
+I30
+I2
+I294
+I1
+tp91
+(dp92
+tp93
+Rp94
+sbsa(dp95
+g14
+I00
+sg15
+(lp96
+F197.66666666666674
+aF1083.3333333333333
+asg17
+(itiddlywiki
+Tiddler
+p97
+(dp98
+g21
+V[[< Back|previous()]]\u000a\u000aOur Services instantly connect people everywhere to what\u2019s most meaningful to them. Any registered user of the Twitter Services can send a Tweet, which is a message of 140 characters or less that is public by default and can include other content like photos, videos, and links to other websites.\u000a\u000a    Tip: What you say on the Twitter Services may be viewed all around the world instantly. ''You are what you Tweet!''\u000a\u000aThis Privacy Policy (\u201cPolicy\u201d) describes how and when Twitter collects, uses and shares your information when you use our Services. Twitter receives your information through our various websites, SMS, APIs, email notifications, applications, buttons, widgets, ads, commerce services (the \u201cTwitter Services\u201d), and our other covered services that link to this Policy (collectively, the \u201cServices\u201d) and from our partners and other third parties. For example, you send us information when you use our Services on the web, via SMS, or from an application such as Twitter for Mac, Twitter for Android or TweetDeck. When using any of our Services you consent to the collection, transfer, storage, disclosure, and use of your information as described in this Privacy Policy.\u000a\u000a\u000aIf you live in the United States, your information is controlled by Twitter, Inc., 1355 Market Street, Suite 900, San Francisco, CA 94103 U.S.A. If you live outside the United States, the data controller responsible for your information is Twitter International Company, an Irish company with its registered office at The Academy, 42 Pearse Street, Dublin 2, Ireland. Irrespective of which country you reside in or supply information from, you authorize Twitter to use your information in the United States, Ireland, and any other country where Twitter operates.\u000a\u000a\u000aIf you have any questions or comments about this Privacy Policy, please contact us here or at privacy@twitter.com.\u000aInformation Collection and Use\u000a\u000a    Tip: We collect and use your information below to provide our Services and to measure and improve them over time.\u000a\u000aBasic Account Information: When you create or reconfigure an account, you provide some personal information, such as your name, username, password, email address, or phone number. On the Twitter Services, your name and username are listed publicly, including on your profile page and in search results, and you can use either your real name or a pseudonym. Some Twitter Services, such as searching and viewing public user profiles, do not require registration.\u000a\u000a\u000aContact Information: You may use your contact information, such as your email address or phone number, to customize your account or enable Services, for example, for login verification, Twitter via SMS, or Digits by Twitter. If you provide Twitter with your phone number, you agree to receive text messages to that number from Twitter. When you use Digits by Twitter to sign up for or login to a third-party application, you are directing Twitter to share your contact information, such as your phone number, with that application. We may use your contact information to send you information about our Services, to market to you, to help prevent spam, fraud, or abuse, and to help others find your account, including through third-party services and client applications. You may use your settings for email and mobile notifications to control notifications you receive from the Twitter Services. You may also unsubscribe from a notification by following the instructions contained within the notification or the instructions on our website. Your privacy settings control whether others can find you on the Twitter Services by your email address or phone number.\u000a\u000a\u000aAdditional Information: You may provide us with profile information to make public on the Twitter Services, such as a short biography, your location, your website, or a picture. You may choose to upload your address book so that we can help you find users you know or help other users find you. We may later make suggestions to you and other users based on imported address book contacts. You can delete your imported address book contacts at any time. Learn more here. If you email us, we may keep your message, email address and contact information to respond to your request. If you connect your account on our Services to your account on another service in order to cross-post between our Services and that service, the other service may send us your registration or profile information on that service and other information that you authorize. This information enables cross-posting, helps us improve the Services, and is deleted from our Services within a few weeks of your disconnecting from our Services your account on the other service. Learn more here. Providing the additional information described in this section is entirely optional.\u000a\u000a\u000aTweets, Following, Lists and other Public Information: Our Services are primarily designed to help you share information with the world. Most of the information you provide us through the Twitter Services is information you are asking us to make public. Your public information includes the messages you Tweet; the metadata provided with Tweets, such as when you Tweeted and the client application you used to Tweet; the language, country, and time zone associated with your account; and the lists you create, people you follow, Tweets you mark as favorites or Retweet, and many other bits of information that result from your use of the Twitter Services. We may use this information to make inferences, like what topics you may be interested in, and to customize the content we show you, including ads. Our default is almost always to make the information you provide through the Twitter Services public for as long as you do not delete it, but we generally give you settings or features, like direct messages, to make the information more private if you want. The Twitter Services broadly and instantly disseminate your public information to a wide range of users, customers, and services. For instance, your public user profile information and public Tweets are immediately delivered via SMS and our APIs to our partners and other third parties, including search engines, developers, and publishers that integrate Twitter content into their services, and institutions such as universities and public health agencies that analyze the information for trends and insights. When you share information or content like photos, videos, and links via the Services, you should think carefully about what you are making public.\u000a\u000a\u000aLocation Information: Twitter may receive information about your location. For example, you may choose to publish your location in your Tweets and in your Twitter profile. You may also tell us your location when you set your trend location on Twitter.com. We may also determine location by using other data from your device, such as precise location information from GPS, information about wireless networks or cell towers near your mobile device, or your IP address. We may use and store information about your location to provide features of our Services, such as Tweeting with your location, and to improve and customize the Services, for example, with more relevant content like local trends, stories, ads, and suggestions for people to follow. Learn more about our use of location here, and how to set your location preferences here.\u000a\u000a\u000aLinks: Twitter may keep track of how you interact with links across our Services, including our email notifications, third-party services, and client applications, by redirecting clicks or through other means. We do this to help improve our Services, to provide more relevant advertising, and to be able to share aggregate click statistics such as how many times a particular link was clicked on.\u000a\u000a\u000aCookies: Like many websites, we use cookies and similar technologies to collect additional website usage data and to improve our Services, but we do not require cookies for many parts of our Services such as searching and looking at public user profiles. A cookie is a small data file that is transferred to your computer or mobile device. Twitter may use both session cookies and persistent cookies to better understand how you interact with our Services, to monitor aggregate usage by our users and web traffic routing on our Services, and to customize and improve our Services. Most Internet browsers automatically accept cookies. You can instruct your browser, by changing its settings, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. However, some Services may not function properly if you disable cookies. Learn more about how we use cookies and similar technologies here.\u000a\u000a\u000aLog Data: When you use our Services, we may receive information (\u201cLog Data\u201d) such as your IP address, browser type, operating system, the referring web page, pages visited, location, your mobile carrier, device information (including device and application IDs), search terms, and cookie information. We receive Log Data when you interact with our Services, for example, when you visit our websites, sign into our Services, interact with our email notifications, use your account to authenticate to a third-party website or application, or visit a third-party website that includes a Twitter button or widget. We may also receive Log Data when you click on, view or interact with links on our Services, including links to third-party applications, such as when you choose to install another application through Twitter. Twitter uses Log Data to provide, understand, and improve our Services, to make inferences, like what topics you may be interested in, and to customize the content we show you, including ads. If not already done earlier, for example, as provided below for Widget Data, we will either delete Log Data or remove any common account identifiers, such as your username, full IP address, or email address, after a maximum of 18 months.\u000a\u000a\u000aWidget Data: We may tailor the Services for you based on your visits to third-party websites that integrate Twitter buttons or widgets. When these websites first load our buttons or widgets for display, we receive Log Data that includes the web page you visited and a cookie that identifies your browser (\u201cWidget Data\u201d). After a maximum of 10 days, we start the process of deleting, de-identifying, or aggregating Widget Data, which is usually instantaneous but in some cases may take up to a week. We may use Widget Data to tailor content for you, such as suggestions for people to follow and other content you may be interested in. Tailored content is stored with only browser cookies or device IDs and is separated from other Widget Data such as page-visit information. Learn more about the feature, including how you can suspend it or turn it off, here. For Tweets, Log Data, and other information that we receive from interactions with Twitter buttons or widgets, please see the other sections of this Privacy Policy.\u000a\u000a\u000aCommerce Services: You may provide your payment information, including your credit or debit card number, card expiration date, CVV code, and billing address (collectively, \u201cPayment Information\u201d), along with your shipping address, to complete a commerce transaction through our Services. You may also provide your credit or debit card number to register for card-linked services, such as offers. To facilitate future purchases, we store your Payment Information, excluding CVV code, and shipping address, which you can remove from your account at any time using your account settings. We consider your Payment Information and shipping address private and do not make such information public. We collect and store information created by your purchases made through our Services (\u201cTransaction Data\u201d). If you register your credit or debit card with Twitter for card-linked services, we receive information about the card transactions from a third-party payment services provider or card network (\u201cRegistered Card Data\u201d). Transaction Data and Registered Card Data may include the merchant\u2019s name and the date, time and amount of the transaction. Twitter uses Registered Card Data to verify eligibility for card-linked services, and may also use Registered Card Data to limit the number of offers available to you and keep track of your offers.\u000a\u000a\u000aThird-Parties and Affiliates: Twitter uses a variety of third-party services to help provide our Services, such as hosting our various blogs and wikis, and to help us understand and improve the use of our Services, such as Google Analytics. These third-party service providers may collect information sent by your browser as part of a web page request, such as cookies or your IP address. Third-party ad partners may share information with us, like a browser cookie ID, website URL visited, mobile device ID, or cryptographic hash of a common account identifier (such as an email address), to help us measure and tailor ads. For example, this allows us to display ads about things you may have already shown interest in off of our Services. If you prefer, you can turn off tailored ads in your privacy settings so that your account will not be matched to information shared by ad partners for tailoring ads. Learn more about your privacy options here and about how ads work on our Services here. We may also receive information about you from our corporate affiliates in order to help provide, understand, and improve our Services and our affiliates\u2019 services, including the delivery of ads.\u000aInformation Sharing and Disclosure\u000a\u000a    Tip: We do not disclose your private personal information except in the limited circumstances described here.\u000a\u000aUser Consent or Direction: We may share or disclose your information at your direction, such as when you authorize a third-party web client or application to access your account. Other users may share or disclose information about you, such as when they mention you, share a photo of you, or tag you in a photo. Your privacy settings control who can tag you in a photo on the Twitter Services. If you\u2019ve shared information, like direct messages or protected Tweets, with another user who accesses the Twitter Services through a third-party service, keep in mind that the information may be shared with the third-party service.\u000a\u000a\u000aService Providers: We engage service providers to perform functions and provide services to us in the United States, Ireland, and other countries. We may share your private personal information with such service providers subject to obligations consistent with this Privacy Policy and any other appropriate confidentiality and security measures, and on the condition that the third parties use your private personal data only on our behalf and pursuant to our instructions. We share your Payment Information with payment services providers to process payments; prevent, detect and investigate fraud or other prohibited activities; facilitate dispute resolution such as chargebacks or refunds; and for other purposes associated with the acceptance of credit or debit cards. We may share your credit or debit card number with payment services providers or card networks to monitor card transactions at participating merchants and track redemption activity for the purposes of providing card-linked services.\u000a\u000a\u000aSellers of Goods and Services: If you buy goods or services through our Services, we may provide the seller, commerce provider or marketplace with your name, email address, shipping address, Payment Information and Transaction Data to facilitate payment processing, order fulfilment and dispute resolution (including payment and shipping disputes) and to help prevent, detect and investigate fraud or other prohibited activities. Please refer to these third parties\u2019 privacy policies for information about their privacy practices.\u000a\u000a\u000aLaw and Harm: Notwithstanding anything to the contrary in this Policy, we may preserve or disclose your information if we believe that it is reasonably necessary to comply with a law, regulation, legal process, or governmental request; to protect the safety of any person; to address fraud, security or technical issues; or to protect Twitter\u2019s rights or property. However, nothing in this Privacy Policy is intended to limit any legal defenses or objections that you may have to a third party\u2019s, including a government\u2019s, request to disclose your information.\u000a\u000a\u000aBusiness Transfers and Affiliates: In the event that Twitter is involved in a bankruptcy, merger, acquisition, reorganization or sale of assets, your information may be sold or transferred as part of that transaction. This Privacy Policy will apply to your information as transferred to the new entity. We may also disclose information about you to our corporate affiliates in order to help provide, understand, and improve our Services and our affiliates\u2019 services, including the delivery of ads.\u000a\u000a\u000aNon-Private or Non-Personal Information: We may share or disclose your non-private, aggregated or otherwise non-personal information, such as your public user profile information, public Tweets, the people you follow or that follow you, or the number of users who clicked on a particular link (even if only one did), or reports to advertisers about unique users who saw or clicked on their ads after we have removed any private personal information (such as your name or contact information).\u000aAccessing and Modifying Your Personal Information\u000a\u000aIf you are a registered user of our Services, we provide you with tools and account settings to access, correct, delete, or modify the personal information you provided to us and associated with your account. You can download certain account information, including your Tweets, by following the instructions here and request access to additional information here.\u000a\u000a\u000aYou can also permanently delete your Twitter account. If you follow the instructions here, your account will be deactivated and then deleted. When your account is deactivated, it is not viewable on Twitter.com. For up to 30 days after deactivation it is still possible to restore your account if it was accidentally or wrongfully deactivated. Absent a separate arrangement between you and Twitter to extend your deactivation period, after 30 days, we begin the process of deleting your account from our systems, which can take up to a week.\u000a\u000a\u000aKeep in mind that search engines and other third parties may still retain copies of your public information, like your user profile information and public Tweets, even after you have deleted the information from the Twitter Services or deactivated your account. Learn more here.\u000aOur Policy Towards Children\u000a\u000aOur Services are not directed to persons under 13. If you become aware that your child has provided us with personal information without your consent, please contact us here. We do not knowingly collect personal information from children under 13. If we become aware that a child under 13 has provided us with personal information, we take steps to remove such information and terminate the child\u2019s account. You can find additional resources for parents and teens here.\u000aEU Safe Harbor Framework\u000a\u000aTwitter complies with the U.S.-E.U. and U.S.-Swiss Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification, please visit the U.S. Department of Commerce website.\u000aChanges to this Policy\u000a\u000aWe may revise this Privacy Policy from time to time. The most current version of the policy will govern our use of your information and will always be at https://twitter.com/privacy. If we make a change to this policy that, in our sole discretion, is material, we will notify you via an @Twitter update or email to the email address associated with your account. By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Privacy Policy.\u000a\u000a\u000aEffective: May 18, 2015\u000aArchive of Previous Privacy Policies\u000aThoughts or questions about this Privacy Policy? Please, let us know.\u000a
+p99
+sg23
+Vprivacy
+p100
+sg25
+g26
+((I2015
+I10
+I25
+I15
+I35
+I50
+I6
+I298
+I0
+tp101
+(dp102
+tp103
+Rp104
+sg31
+(lp105
+sg33
+g26
+((I2015
+I10
+I21
+I23
+I56
+I48
+I2
+I294
+I1
+tp106
+(dp107
+tp108
+Rp109
+sbsa(dp110
+g14
+I00
+sg15
+(lp111
+F314.0
+aF1204.0000000000002
+asg17
+(itiddlywiki
+Tiddler
+p112
+(dp113
+g21
+V[[< Back|previous()]]\u000a\u000aTwitter uses cookies and other similar technologies, such as pixels or local storage, to help provide you with a better, faster, and safer experience. Here are some of the ways that the Twitter services\u2014including our various websites, SMS, APIs, email notifications, applications, buttons, widgets, and ads\u2014use these technologies: to log you into Twitter, save your preferences, personalize the content you see, protect against spam and abuse, and show you more relevant ads.\u000a\u000aBelow we explain how Twitter, our partners, and other third parties use these technologies, your privacy settings and the other options you have.\u000aWhat are cookies, pixels, and local storage?\u000a\u000aCookies are small files that websites place on your computer as you browse the web. Like many websites, Twitter uses cookies to discover how people are using our services and to make them work better.\u000a\u000aA pixel is a small amount of code on a web page or in an email notification. As many services do, we use pixels to learn whether you\u2019ve interacted with certain web or email content. This helps us measure and improve our services and personalize your experience on Twitter.\u000a\u000aLocal storage is an industry-standard technology that allows a website or application to store information locally on your computer or mobile device. We use local storage to customize what we show you based on your past interactions with Twitter.\u000aWhy does Twitter use these technologies?\u000a\u000aTwitter uses these technologies to deliver, measure, and improve our services in various ways. These uses generally fall into one of the following categories:\u000a\u000a    Authentication and security:\u000a        To log you into Twitter\u000a        To protect your security\u000a        To help us detect and fight spam, abuse, and other activities that violate the Twitter Rules\u000a\u000aFor example, these technologies help authenticate your access to Twitter and prevent unauthorized parties from accessing your account. They also let us show you appropriate content through our services.\u000a\u000a    Preferences:\u000a        To remember information about your browser and your preferences\u000a\u000aFor example, cookies help us remember your preferred language or country that you are in. We can then provide you with Twitter content in your preferred language without having to ask you each time you visit Twitter. We can also customize content based on your country, such as showing you what topics are trending near you, or to withhold certain content based on applicable local laws. Learn more about Trends and country withheld content.\u000a\u000a    Analytics and research:\u000a        To help us improve and understand how people use our services, including Twitter buttons and widgets, and Twitter Ads\u000a\u000aFor example, cookies help us test different versions of our services to see which particular features or content users prefer. We might also optimize and improve your experience on Twitter by using cookies to see how you interact with our services, such as when and how often you use them and what links you click on. We may use Google Analytics to assist us with this. Learn more about the cookies you may encounter through our use of Google Analytics. We might also use cookies to count the number of users that have seen a particular embedded Tweet or timeline. Learn more about the analytics cookies used by Twitter widgets.\u000a\u000a    Personalized content:\u000a        To customize our services with more relevant content, like tailored trends, stories, ads, and suggestions for people to follow\u000a\u000aFor example, local storage tells us which parts of your Twitter timeline you have viewed already so that we can show you the appropriate new content. Cookies can help us make smarter and more relevant suggestions about who you might enjoy following based on your visits to websites that have integrated Twitter buttons or widgets. Learn more about tailored suggestions and your privacy controls, which include your Twitter account settings and Do Not Track browser setting.\u000a\u000a    Advertising:\u000a        To help us deliver ads, measure their performance, and make them more relevant to you based on criteria like your activity on Twitter and visits to our ad partners' websites\u000a\u000aFor example, Twitter uses cookies and pixels to tailor ads and measure their performance. Using these technologies, we can show you ads and evaluate their effectiveness based on your visits to our ad partners' websites. This helps advertisers provide high-quality ads and content that might be more interesting to you. Learn more about Twitter\u2019s tailored ads and your privacy controls, which include your Twitter account settings, Do Not Track browser setting, and the opt-out choices of Twitter's ad partners, including those at aboutads.info/choices.\u000a\u000aOur third-party advertising providers, including Google Analytics for Display Advertisers, also use these technologies for marketing on Twitter\u2019s behalf, including the delivery of interest-based ads and measurement of their performance. If you do not want our advertising providers to use your visits to Twitter websites to show you personalized ads on our behalf, you can opt out using your Do Not Track browser setting. You can also opt out of Google Analytics by installing Google\u2019s opt-out browser add-on, and out of interest-based Google ads using Google\u2019s Ads Settings.\u000aWhere are these technologies used?\u000a\u000aTwitter uses these technologies on our own websites and services and on other websites that have integrated our services. This includes our advertising and platform partners\u2019 websites and sites that use Twitter buttons or widgets, like our Tweet or follow buttons. Third parties may also use these technologies, for example, when you interact with their content from within our services, like when you click a link or stream media on Twitter from a third-party service, and to help with the delivery of ads shown on and off of Twitter.\u000aWhat are my privacy options?\u000a\u000aWe are committed to offering you meaningful privacy choices. You have a number of options to control or limit how Twitter, our partners, and other third parties use cookies:\u000a\u000a    For tailoring suggestions on Twitter: If you do not want Twitter to tailor suggestions for you based on your recent visits to websites that have integrated Twitter buttons or widgets, you can turn off this feature using your Twitter account settings or Do Not Track browser setting. Learn more here.\u000a    For tailoring ads on Twitter: If you do not want Twitter to tailor ads based on our ad partners\u2019 information, including cookies, you can turn off this feature using your Twitter account settings. Then Twitter will not match your account to cookie or other information shared by our ad partners for tailoring ads. You can also use your Do Not Track browser setting to turn off tailored ads. Twitter\u2019s ad partners offer additional privacy choices, including those at aboutads.info/choices. Learn more here.\u000a    For using cookies: You can modify your settings in most web browsers to accept or deny all cookies, or to request your permission each time a site attempts to set a cookie. Although cookies are not required for some parts of our services, Twitter may not work properly if you disable cookies entirely. For example, you cannot log into Twitter.com if you've disabled all cookie use.\u000a
+p114
+sg23
+Vcookies
+p115
+sg25
+g26
+((I2015
+I10
+I25
+I15
+I35
+I58
+I6
+I298
+I0
+tp116
+(dp117
+tp118
+Rp119
+sg31
+(lp120
+sg33
+g26
+((I2015
+I10
+I21
+I23
+I57
+I45
+I2
+I294
+I1
+tp121
+(dp122
+tp123
+Rp124
+sbsa(dp125
+g14
+I00
+sg15
+(lp126
+F526.3333333333336
+aF1065.6666666666656
+asg17
+(itiddlywiki
+Tiddler
+p127
+(dp128
+g21
+V<<twiticon>>\u000a\u000a<div id="twitter">Join Twitter today.\u000a\u000a<div id="twinput1">[[Full name|Join2]]</div>\u000a<div id="twinput1">Phone or Email</div>\u000a<div id="twinput1">Password</div>\u000a[[Sign up|JoinForgot]]<<set $fuck -= 1>>\u000a\u000aBy signing up, you agree to the [[Terms of Service|terms]] and [[Privacy Policy|privacy]], including [[Cookie Use|cookies]]. Others will be able to find you by email or phone number when provided.</div>
+p129
+sg23
+VJoin1
+p130
+sg25
+g26
+((I2015
+I10
+I30
+I15
+I54
+I15
+I4
+I303
+I0
+tp131
+(dp132
+tp133
+Rp134
+sg31
+(lp135
+sg33
+g26
+((I2015
+I10
+I21
+I23
+I58
+I16
+I2
+I294
+I1
+tp136
+(dp137
+tp138
+Rp139
+sbsa(dp140
+g14
+I00
+sg15
+(lp141
+F609.0000000000002
+aF209.66666666666578
+asg17
+(itiddlywiki
+Tiddler
+p142
+(dp143
+g21
+V<<twiticon>>\u000a\u000aYou are browsing the Twitter profile of a friend<<if visited() is 1>> to look for a link they told you about earlier<<endif>>.\u000a\u000a<<if $scroll is false>>\u000a<<profile>>\u000a\u000a<<endif>><<feeling>>\u000a\u000a\u000a<div id="twitter"><<display either("message1", "message2")>></div>\u000a\u000aYou are looking at their tweets:\u000a\u000a<<print either("There is a tweet here with a very interesting video about 3d tile based game design.","They tweeted a video you showed them a few days ago.<br><br>It has 31 retweets.","They wrote about their latest game they just released.<br><br>You haven't made any progress on your work for almost 2 years.","There is a screenshot from an animation they did recently.","Looks like they have a lot of followers.","They tweeted an article about game design","Here's a link to a news article about their last game.<br><br>They seem really excited.","There is an animated gif with some of their art.<br><br>Looks good. A lot of people seem to liked it.","They retweeted a link to game you have never heard of before.<br>It looks good.")>><<set $fuck -= 1>>\u000a<<if visited() is 1>>\u000a\u000aCan't find the link you're looking for though.\u000a<<endif>>\u000a\u000a[[<<print either("See what they have favorited", "Check who they are following", "Look at their followers", "Look at their photos", "Check out who favorited this", "See who retweeted this", "Find out more about their work", "Find out more about their interests", "See who they are friends with", "Send a link of this to a friend")>>|clicksign]]\u000a\u000a[[Scroll Down|passage()][$scroll = true]]\u000a\u000a<<print either("[[Click on another profile|clicksign][$scroll = true]]","[[Click on another profile|friend][$scroll = false]]","[[Click on another profile|friend][$scroll = false]]","[[Click on another profile|game][$scroll = false]]","[[Click on another profile|game][$scroll = false]]","[[Click on another profile|game][$scroll = false]]")>>\u000a\u000a\u000a
+p144
+sg23
+Vfriend
+p145
+sg25
+g26
+((I2015
+I10
+I30
+I16
+I55
+I59
+I4
+I303
+I0
+tp146
+(dp147
+tp148
+Rp149
+sg31
+(lp150
+sg33
+g26
+((I2015
+I10
+I22
+I0
+I10
+I56
+I3
+I295
+I1
+tp151
+(dp152
+tp153
+Rp154
+sbsa(dp155
+g14
+I00
+sg15
+(lp156
+F1491.6666666666672
+aF263.66666666666674
+asg17
+(itiddlywiki
+Tiddler
+p157
+(dp158
+g21
+VYou are feeling <<if $fuck >= -8>><<print either("mildly uncomfortable.","uneasy.","envious.","a little sad.","lonely.","weird.")>><<else if $fuck >= -15>><<print either("not good.","not well.","anxious.","desperate.","depressed.")>><<print either("<br><br>Maybe just look at one more tweet.","<br><br>Maybe you should stop.")>><<else>><<print either("like shit.","severely depressed.","fucked up.","like your hands are disappearing.","a strong pressure inside your cerebellum.","like you want to cut your hands off.")>><br><br>This is not healthy for you.<<print either("","<br><br>Click Sign Up. Maybe someone will talk to you.","<br><br>You should join as well. You will not feel this lonely anymore.","<br><br>Make an account.","<br><br>You should make an account. You know you will finally feel like a part of something then.")>><<endif>>
+p159
+sg23
+Vfeeling
+p160
+sg25
+g26
+((I2015
+I10
+I30
+I17
+I16
+I39
+I4
+I303
+I0
+tp161
+(dp162
+tp163
+Rp164
+sg31
+(lp165
+sg33
+g26
+((I2015
+I10
+I22
+I0
+I25
+I22
+I3
+I295
+I1
+tp166
+(dp167
+tp168
+Rp169
+sbsa(dp170
+g14
+I00
+sg15
+(lp171
+F254.9999999999995
+aF807.3333333333327
+asg17
+(itiddlywiki
+Tiddler
+p172
+(dp173
+g21
+Vdata:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAAwCAYAAABNPhkJAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAC4jAAAuIwF4pT92AAAAB3RJTUUH3woZDToT4dIIGgAAAB1pVFh0Q29tbWVudAAAAAAAQ3JlYXRlZCB3aXRoIEdJTVBkLmUHAAAEmElEQVRo3t2aa4hVVRTHf3c6auNMZWajN7UiSSLCYhVlZfVB7WV90N46NRE4FkIU+aESK5LqU0SUUFFhWaRU9hJ7YBQYU0r91Sl1smQws3FskkqrcdRuH86eOFzu49xz7zn3XhfcD/vcfdbev7PWfq29UtSQmFkDkAamAO3AuYAHpIAMsBtYDzwLdEnaG1JvM9Av6VCqhmDPBB4BrgEaQ7zyC/AisFjSoTw6xwJ3AecB8yTtSOWotF7S+QnDzgWeBI6J8Ho3cIWkHwL6JgGLgUuB44C1ki7DuUqw4SeA+4EOSRcnBNsKLCtTzR+u31OAGcCIwH+HgTGS+nIB7wOaXfEFYH4+d6kQ7JXAhzF/04WSHh8seIHGLwKaAhXnAiOBG2KCHQ+8GzPsO4OwZnYWMKwh8OfMLIungOvNbFNMnVkJDItJ97/AY5JmmdndZtYJrAWaUoEv/hJwRx4FuwCTtKdC1p0OrAKGxgTc5wx2QuDZCqDVCzwYUkDBWGC7mbUDb0saKLNDV8UICzAqq7xR0s0AQZfOFFHSDLwOfGpm55Rh3eFuNk1KtgJTBwtB4O9DvJxynV1nZq9F7MBw4JSEYFcBk4M7siDw+26wh5GhwBwzGzCzRSV2oqHI8KmEZNwubKakP7MtFnS3vqyBHlb+Ad4E3gA2SOot4NItQBdwfIzAP0nK6UVeVvk+YGmEBhqB24BWYLeZbQY+Bz6W9E1W3f4SPCmqNBQak9kW2AmMq5BbHQYOAr8CAnqBNcBTFWojn+ySNC6MhXEz2tZCXymkpJx+DzjZ/QDmJTBZ9RQ1vZlNNLMRkrYBD4ZYpmpZDoTx9SVAp5ktdYfsewq9WOOS18Je1kw7HmgDbnUTS0OdAm8JY+HNWc+9OgXOuAmyKPCyOh+3/5+UJL1XFFjSFmDPEQDcV8oCPesIAP4kNLCkDuDrOgdeUuoWbAawr05h90taVxKwi2rMAQbqEPiVSJtsSR8Ak91Gv56Wo6cjnyokbZDUCHyRwOmmEvIlsLNYJa/AuXW0O+hPBaYDC4ALCHcNkvjaCzwnqT8yMDABWO3qZJzSITVq3W5JoW4vCrl0h4Nswg/gHVvkA1VTFpYdGXByXR2M3W8lragIsKTP8EOztSoDlBjyDXMaagc21SjwndlRybKBJf2Nf8+6vcZgV0fxvpIyAMxsuRvX1Z68fgbODpvyEJSjSoqb9PS8lU6nP8K/a2oBjq7Gfhm4XFJ3lJcj53iY2elurT4NPx59YQKwB4FJkrqiKig7qcXMngHmV0JXCNhLip2GYgE2s1HAbOABYEwClv0dmJbjFiNeYAf6EHAjMDqhMbsNuEnSxkooS4WAbMEP27a78ZrkDP0ycG+pa21BYDNbAFwNfIcfeJ8InOR+I6s4E7dJWllpxR5+Gt8Z+Fk71YALSj+wRtK1cTUQTGqZgH9dOhs/ey1JOYCfr/WwpM44G8p1XZoGpgGPAqfGDPqb87DngV5JsUdWUiE2F23A7fhZruVevWSAvfix40WSEt+fh16WzMwDbnHHMQNOxE8P8vLo+Qv/gm4H8CPwFfCqpP3VnCT+A9jNY14ZM6JTAAAAAElFTkSuQmCC
+p174
+sg23
+Vtwit
+p175
+sg25
+g26
+((I2015
+I10
+I25
+I14
+I58
+I43
+I6
+I298
+I0
+tp176
+(dp177
+tp178
+Rp179
+sg31
+(lp180
+S'Twine.image'
+p181
+asg33
+g179
+sbsa(dp182
+g14
+I00
+sg15
+(lp183
+F390.6666666666667
+aF807.9999999999998
+asg17
+(itiddlywiki
+Tiddler
+p184
+(dp185
+g21
+V<center>[img[twit]]</center>
+p186
+sg23
+Vtwiticon
+p187
+sg25
+g26
+((I2015
+I10
+I25
+I15
+I5
+I30
+I6
+I298
+I0
+tp188
+(dp189
+tp190
+Rp191
+sg31
+(lp192
+sg33
+g26
+((I2015
+I10
+I25
+I15
+I0
+I20
+I6
+I298
+I0
+tp193
+(dp194
+tp195
+Rp196
+sbsa(dp197
+g14
+I00
+sg15
+(lp198
+F531.666666666666
+aF1200.6666666666663
+asg17
+(itiddlywiki
+Tiddler
+p199
+(dp200
+g21
+V<<twiticon>>\u000a\u000a<div id="twitter">@@Please enter your full details@@\u000a\u000a<div id="twinput1">[[Full name|Join2]]</div>\u000a<div id="twinput1">Phone or Email</div>\u000a<div id="twinput1">Password</div>\u000a[[Sign up|JoinForgot]]\u000a\u000aBy signing up, you agree to the [[Terms of Service|terms]] and [[Privacy Policy|privacy]], including [[Cookie Use|cookies]]. Others will be able to find you by email or phone number when provided.</div>
+p201
+sg23
+VJoinForgot
+p202
+sg25
+g26
+((I2015
+I10
+I25
+I16
+I37
+I9
+I6
+I298
+I0
+tp203
+(dp204
+tp205
+Rp206
+sg31
+(lp207
+sg33
+g26
+((I2015
+I10
+I21
+I23
+I58
+I16
+I2
+I294
+I1
+tp208
+(dp209
+tp210
+Rp211
+sbsa(dp212
+g14
+I00
+sg15
+(lp213
+F652.0000000000003
+aF1060.0000000000005
+asg17
+(itiddlywiki
+Tiddler
+p214
+(dp215
+g21
+V<<twiticon>>\u000a\u000a<div id="twitter">Join Twitter today.\u000a\u000a<div id="twinput2">Me</div>\u000a<div id="twinput1">[[Phone or Email|Join3]]</div>\u000a<div id="twinput1">Password</div>\u000a[[Sign up|JoinForgot]]\u000a\u000aBy signing up, you agree to the [[Terms of Service|terms]] and [[Privacy Policy|privacy]], including [[Cookie Use|cookies]]. Others will be able to find you by email or phone number when provided.</div>
+p216
+sg23
+VJoin2
+p217
+sg25
+g26
+((I2015
+I10
+I25
+I16
+I26
+I59
+I6
+I298
+I0
+tp218
+(dp219
+tp220
+Rp221
+sg31
+(lp222
+sg33
+g26
+((I2015
+I10
+I25
+I15
+I58
+I22
+I6
+I298
+I0
+tp223
+(dp224
+tp225
+Rp226
+sbsa(dp227
+g14
+I00
+sg15
+(lp228
+F1103.6666666666656
+aF1060.6666666666656
+asg17
+(itiddlywiki
+Tiddler
+p229
+(dp230
+g21
+V<<twiticon>>\u000a\u000a<div id="twitter">@@Name has already been taken@@\u000a\u000a<div id="twinput1">[[Full name|JoinTaken2]]</div>\u000a<div id="twinput1">Phone or Email</div>\u000a<div id="twinput1">Password</div>\u000a[[Sign up|JoinForgot2]]<<set $fuck -= 5>>\u000a\u000aBy signing up, you agree to the [[Terms of Service|terms]] and [[Privacy Policy|privacy]], including [[Cookie Use|cookies]]. Others will be able to find you by email or phone number when provided.</div>
+p231
+sg23
+VJoinTaken
+p232
+sg25
+g26
+((I2015
+I10
+I30
+I15
+I54
+I22
+I4
+I303
+I0
+tp233
+(dp234
+tp235
+Rp236
+sg31
+(lp237
+sg33
+g26
+((I2015
+I10
+I21
+I23
+I58
+I16
+I2
+I294
+I1
+tp238
+(dp239
+tp240
+Rp241
+sbsa(dp242
+g14
+I00
+sg15
+(lp243
+F1098.6666666666658
+aF1225.6666666666656
+asg17
+(itiddlywiki
+Tiddler
+p244
+(dp245
+g21
+V<<twiticon>>\u000a\u000a<div id="twitter">@@Please enter your full details@@\u000a\u000a<div id="twinput1">[[Full name|JoinTaken2]]</div>\u000a<div id="twinput1">Phone or Email</div>\u000a<div id="twinput1">Password</div>\u000a[[Sign up|JoinForgot2]]\u000a\u000aBy signing up, you agree to the [[Terms of Service|terms]] and [[Privacy Policy|privacy]], including [[Cookie Use|cookies]]. Others will be able to find you by email or phone number when provided.</div>
+p246
+sg23
+VJoinForgot2
+p247
+sg25
+g26
+((I2015
+I10
+I25
+I16
+I37
+I17
+I6
+I298
+I0
+tp248
+(dp249
+tp250
+Rp251
+sg31
+(lp252
+sg33
+g26
+((I2015
+I10
+I21
+I23
+I58
+I16
+I2
+I294
+I1
+tp253
+(dp254
+tp255
+Rp256
+sbsa(dp257
+g14
+I00
+sg15
+(lp258
+F1247.0000000000005
+aF1060.0000000000002
+asg17
+(itiddlywiki
+Tiddler
+p259
+(dp260
+g21
+V<<twiticon>>\u000a\u000a<div id="twitter">Join Twitter today.\u000a\u000a<div id="twinput2">banach_tarski_</div>\u000a<div id="twinput1">[[Phone or Email|JoinTaken3]]</div>\u000a<div id="twinput1">Password</div>\u000a[[Sign up|JoinForgot2]]\u000a\u000aBy signing up, you agree to the [[Terms of Service|terms]] and [[Privacy Policy|privacy]], including [[Cookie Use|cookies]]. Others will be able to find you by email or phone number when provided.</div>
+p261
+sg23
+VJoinTaken2
+p262
+sg25
+g26
+((I2015
+I10
+I25
+I16
+I32
+I5
+I6
+I298
+I0
+tp263
+(dp264
+tp265
+Rp266
+sg31
+(lp267
+sg33
+g26
+((I2015
+I10
+I25
+I16
+I25
+I12
+I6
+I298
+I0
+tp268
+(dp269
+tp270
+Rp271
+sbsa(dp272
+g14
+I00
+sg15
+(lp273
+F780.3333333333333
+aF1060.0000000000002
+asg17
+(itiddlywiki
+Tiddler
+p274
+(dp275
+g21
+V<<twiticon>>\u000a\u000a<div id="twitter">Join Twitter today.\u000a\u000a<div id="twinput2">Me</div>\u000a<div id="twinput2">me@posteo.net</div>\u000a<div id="twinput1">[[Password|Join4]]</div>\u000a[[Sign up|JoinForgot]]\u000a\u000aBy signing up, you agree to the [[Terms of Service|terms]] and [[Privacy Policy|privacy]], including [[Cookie Use|cookies]]. Others will be able to find you by email or phone number when provided.</div>
+p276
+sg23
+VJoin3
+p277
+sg25
+g26
+((I2015
+I10
+I25
+I16
+I31
+I7
+I6
+I298
+I0
+tp278
+(dp279
+tp280
+Rp281
+sg31
+(lp282
+sg33
+g26
+((I2015
+I10
+I25
+I16
+I27
+I13
+I6
+I298
+I0
+tp283
+(dp284
+tp285
+Rp286
+sbsa(dp287
+g14
+I00
+sg15
+(lp288
+F905.3333333333335
+aF1061.6666666666663
+asg17
+(itiddlywiki
+Tiddler
+p289
+(dp290
+g21
+V<<twiticon>>\u000a\u000a<div id="twitter">Join Twitter today.\u000a\u000a<div id="twinput2">Me</div>\u000a<div id="twinput2">me@posteo.net</div>\u000a<div id="twinput2">************</div>\u000a[[Sign up|JoinTaken]]\u000a\u000aBy signing up, you agree to the [[Terms of Service|terms]] and [[Privacy Policy|privacy]], including [[Cookie Use|cookies]]. Others will be able to find you by email or phone number when provided.</div>
+p291
+sg23
+VJoin4
+p292
+sg25
+g26
+((I2015
+I10
+I25
+I16
+I31
+I1
+I6
+I298
+I0
+tp293
+(dp294
+tp295
+Rp296
+sg31
+(lp297
+sg33
+g26
+((I2015
+I10
+I25
+I16
+I28
+I27
+I6
+I298
+I0
+tp298
+(dp299
+tp300
+Rp301
+sbsa(dp302
+g14
+I00
+sg15
+(lp303
+F1382.0
+aF1058.3333333333337
+asg17
+(itiddlywiki
+Tiddler
+p304
+(dp305
+g21
+V<<twiticon>>\u000a\u000a<div id="twitter">Join Twitter today.\u000a\u000a<div id="twinput2">banach_tarski_</div>\u000a<div id="twinput2">banach-tarski@posteo.net</div>\u000a<div id="twinput1">[[Password|JoinTaken4]]</div>\u000a[[Sign up|JoinForgot2]]\u000a\u000aBy signing up, you agree to the [[Terms of Service|terms]] and [[Privacy Policy|privacy]], including [[Cookie Use|cookies]]. Others will be able to find you by email or phone number when provided.</div>
+p306
+sg23
+VJoinTaken3
+p307
+sg25
+g26
+((I2015
+I10
+I25
+I16
+I33
+I23
+I6
+I298
+I0
+tp308
+(dp309
+tp310
+Rp311
+sg31
+(lp312
+sg33
+g26
+((I2015
+I10
+I25
+I16
+I31
+I42
+I6
+I298
+I0
+tp313
+(dp314
+tp315
+Rp316
+sbsa(dp317
+g14
+I00
+sg15
+(lp318
+F1527.0000000000002
+aF1056.6666666666667
+asg17
+(itiddlywiki
+Tiddler
+p319
+(dp320
+g21
+V<<twiticon>>\u000a\u000a<div id="twitter">Join Twitter today.\u000a\u000a<div id="twinput2">banach_tarski_</div>\u000a<div id="twinput2">banach-tarski@posteo.net</div>\u000a<div id="twinput2">************</div>\u000a[[Sign up|Weareglad]]\u000a\u000aBy signing up, you agree to the [[Terms of Service|terms]] and [[Privacy Policy|privacy]], including [[Cookie Use|cookies]]. Others will be able to find you by email or phone number when provided.</div>
+p321
+sg23
+VJoinTaken4
+p322
+sg25
+g26
+((I2015
+I10
+I25
+I16
+I32
+I59
+I6
+I298
+I0
+tp323
+(dp324
+tp325
+Rp326
+sg31
+(lp327
+sg33
+g26
+((I2015
+I10
+I25
+I16
+I32
+I30
+I6
+I298
+I0
+tp328
+(dp329
+tp330
+Rp331
+sbsa(dp332
+g14
+I00
+sg15
+(lp333
+F1088.6666666666679
+aF1695.000000000002
+asg17
+(itiddlywiki
+Tiddler
+p334
+(dp335
+g21
+VWe are glad you are here.
+p336
+sg23
+VWeareglad
+p337
+sg25
+g26
+((I2015
+I10
+I25
+I16
+I39
+I34
+I6
+I298
+I0
+tp338
+(dp339
+tp340
+Rp341
+sg31
+(lp342
+sg33
+g26
+((I2015
+I10
+I25
+I16
+I33
+I16
+I6
+I298
+I0
+tp343
+(dp344
+tp345
+Rp346
+sbsa(dp347
+g14
+I00
+sg15
+(lp348
+F1490.3333333333308
+aF109.33333333333316
+asg17
+(itiddlywiki
+Tiddler
+p349
+(dp350
+g21
+V<div id="twitter">@<<print either("ikd","fjgm","i","pca","aiwu","vjf","u","a","m","q")>><<print either("o","sdi","fj","pqer","dftez","aaw","idf","bllu","uyre","")>><<print either("","oiu","par","juf","ert","ma","pun","kl","um","od")>>\u000a\u000a<<print either("making stuff and stuff.","mom","young artist student art", "cool-indie-games.com/mygame", "musician, artist, mentor, explorer", "illustration & comics", "games & indie games", "games & art", "artist, gamer, writer", "game design, politics, urban exploring", "game arts", "art games", "Artist collective based in my home town. Free speech is important", "queer and radical", "art, games, queer", "altgames", "altgames, non-games, antigames", "Writer, guitarist, artist. Likes to draw nice pictures.", "Indie game studio", "Indie game collective", "Queer art collective", "hashtagaltgames", "indie game dev", "indie game dev, painter, free spirit, in love with @sdjfisodfh", "game dev gone indie, academic", "indie games, i teach at @aisndaeoif", "game design and arts. please sign this petition: jhdd.org/djfu117p4d39" )>>\u000a\u000aJoined <<print either("January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December")>> <<print either("2009","2010","2011","2012")>></div>
+p351
+sg23
+Vprofile
+p352
+sg25
+g26
+((I2015
+I10
+I30
+I15
+I34
+I9
+I4
+I303
+I0
+tp353
+(dp354
+tp355
+Rp356
+sg31
+(lp357
+sg33
+g26
+((I2015
+I10
+I25
+I17
+I7
+I43
+I6
+I298
+I0
+tp358
+(dp359
+tp360
+Rp361
+sbsa(dp362
+g14
+I00
+sg15
+(lp363
+F595.3333333333327
+aF716.6666666666661
+asg17
+(itiddlywiki
+Tiddler
+p364
+(dp365
+g21
+V<<twiticon>>\u000a\u000a<div id="twitter">Not on Twitter? Sign up, tune into the things you care about, and get updates as they happen.\u000a\u000a[[Sign up »|Join1]]</div>\u000a\u000a[[No, you didn't want to sign up! Ugh, maybe you should just continue browsing...|previous()]]<<set $fuck -= 2>>
+p366
+sg23
+Vclicksign
+p367
+sg25
+g26
+((I2015
+I10
+I30
+I15
+I51
+I26
+I4
+I303
+I0
+tp368
+(dp369
+tp370
+Rp371
+sg31
+(lp372
+sg33
+g26
+((I2015
+I10
+I25
+I18
+I1
+I48
+I6
+I298
+I0
+tp373
+(dp374
+tp375
+Rp376
+sbsa(dp377
+g14
+I00
+sg15
+(lp378
+F727.3333333333326
+aF714.9999999999998
+asg17
+(itiddlywiki
+Tiddler
+p379
+(dp380
+g21
+V<<twiticon>>\u000a\u000a<div id="twitter">Not on Twitter? Sign up, tune into the things you care about, and get updates as they happen.\u000a\u000a[[Sign up »|Join1]]</div>\u000a\u000a[[You're not so sure, maybe you should just continue browsing...|previous()]]\u000a
+p381
+sg23
+Vpersonsign
+p382
+sg25
+g26
+((I2015
+I10
+I30
+I15
+I50
+I36
+I4
+I303
+I0
+tp383
+(dp384
+tp385
+Rp386
+sg31
+(lp387
+sg33
+g26
+((I2015
+I10
+I25
+I18
+I1
+I48
+I6
+I298
+I0
+tp388
+(dp389
+tp390
+Rp391
+sbsa(dp392
+g14
+I00
+sg15
+(lp393
+F693.3333333333335
+aF503.33333333333326
+asg17
+(itiddlywiki
+Tiddler
+p394
+(dp395
+g21
+VLog in to Twitter\u000a\u000aDon't have an account? [[Sign up »|personsign]]
+p396
+sg23
+Vmessage1
+p397
+sg25
+g26
+((I2015
+I10
+I30
+I15
+I30
+I15
+I4
+I303
+I0
+tp398
+(dp399
+tp400
+Rp401
+sg31
+(lp402
+sg33
+g26
+((I2015
+I10
+I30
+I15
+I30
+I10
+I4
+I303
+I0
+tp403
+(dp404
+tp405
+Rp406
+sbsa(dp407
+g14
+I00
+sg15
+(lp408
+F816.6666666666661
+aF503.3333333333339
+asg17
+(itiddlywiki
+Tiddler
+p409
+(dp410
+g21
+VNew to Twitter?\u000a\u000aSign up now to get your own personalized timeline!\u000a\u000a[[Sign up »|personsign]]
+p411
+sg23
+Vmessage2
+p412
+sg25
+g26
+((I2015
+I10
+I30
+I15
+I30
+I31
+I4
+I303
+I0
+tp413
+(dp414
+tp415
+Rp416
+sg31
+(lp417
+sg33
+g26
+((I2015
+I10
+I30
+I15
+I30
+I20
+I4
+I303
+I0
+tp418
+(dp419
+tp420
+Rp421
+sbsa(dp422
+g14
+I00
+sg15
+(lp423
+F867.6666666666666
+aF116.66666666666663
+asg17
+(itiddlywiki
+Tiddler
+p424
+(dp425
+g21
+V<<twiticon>>\u000a\u000aYou are browsing the Twitter profile of a cool game developer.\u000a\u000a<<if $scroll is false>>\u000a<<profile>>\u000a\u000a<<endif>><<feeling>>\u000a\u000a\u000a<div id="twitter"><<display either("message1", "message2")>></div>\u000a\u000aYou are looking at their tweets:\u000a\u000a<<print either("They recently released a new game on Steam.<br><br>Looks like a lot of people are writing about this.","Here's a link to a devlog about their new project","They tweeted some photos from a convention they recently attended.<br><br>It makes you feel anxious even thinking about being there.","They made a zine about game design and it look really good.<br><br>You once made something like this but nobody ever read it.","They retweeted a message from someone looking for help making a game.<br><br>You once wrote them an email but never got a reply.","They tweeted a link to the latest indie GOTY awards.<br><br>Looks like their on it. And all of their friends.","There is a video of a talk they recently did.<br><br>It's about the exclusivity of gaming culture.","Here is a screenshot from one of their games.<br><br>You wish you could make something as beautiful as this.","They recently went to a game artist gathering.<br><br>If you could have afforded the traveling costs you wish you could have gone too.")>><<set $fuck -= 1>>\u000a\u000a\u000a[[<<print either("See what they have favorited", "Check who they are following", "Look at their followers", "Look at their photos", "Check out who favorited this", "See who retweeted this", "Find out more about their work", "Find out more about their interests", "See who they are friends with", "Send a link of this to a friend")>>|clicksign]]\u000a\u000a[[Scroll Down|passage()][$scroll = true]]\u000a\u000a<<print either("[[Click on another profile|clicksign][$scroll = true]]","[[Click on another profile|friend][$scroll = false]]","[[Click on another profile|friend][$scroll = false]]","[[Click on another profile|game][$scroll = false]]","[[Click on another profile|game][$scroll = false]]","[[Click on another profile|game][$scroll = false]]")>>\u000a\u000a\u000a
+p426
+sg23
+Vgame
+p427
+sg25
+g26
+((I2015
+I10
+I30
+I17
+I26
+I31
+I4
+I303
+I0
+tp428
+(dp429
+tp430
+Rp431
+sg31
+(lp432
+sg33
+g26
+((I2015
+I10
+I30
+I16
+I21
+I3
+I4
+I303
+I0
+tp433
+(dp434
+tp435
+Rp436
+sbsasS'scale'
+p437
+F0.6000000000000001
+sS'snapping'
+p438
+I00
+ss.

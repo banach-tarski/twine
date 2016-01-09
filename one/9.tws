@@ -1,0 +1,1360 @@
+(dp0
+S'buildDestination'
+p1
+VC:\u005cUsers\u005cvoec\u005cDocuments\u005cone\u005c9.html
+p2
+sS'saveDestination'
+p3
+VC:\u005cUsers\u005cvoec\u005cDocuments\u005cone\u005c9.tws
+p4
+sS'metadata'
+p5
+(dp6
+sS'target'
+p7
+S'sugarcane'
+p8
+sS'storyPanel'
+p9
+(dp10
+S'widgets'
+p11
+(lp12
+(dp13
+S'selected'
+p14
+I00
+sS'pos'
+p15
+(lp16
+F882.9166666666673
+aF239.24999999999957
+asS'passage'
+p17
+(itiddlywiki
+Tiddler
+p18
+(dp20
+S'text'
+p21
+VPlease state your place of residence and/or main language:\u000a\u000a[[Federal Republic of Germany - German|Deutsch]]\u000a\u000a[[United States of America - English|English]]\u000a\u000a[[Other (Subject can read/write English)|English]]
+p22
+sS'title'
+p23
+VStart
+p24
+sS'modified'
+p25
+ctime
+struct_time
+p26
+((I2015
+I12
+I20
+I15
+I56
+I46
+I6
+I354
+I0
+tp27
+(dp28
+tp29
+Rp30
+sS'tags'
+p31
+(lp32
+sS'created'
+p33
+g26
+((I2015
+I12
+I20
+I15
+I12
+I5
+I6
+I354
+I0
+tp34
+(dp35
+tp36
+Rp37
+sbsa(dp38
+g14
+I00
+sg15
+(lp39
+F22.083333333333112
+aF27.083333333332988
+asg17
+(itiddlywiki
+Tiddler
+p40
+(dp41
+g21
+S'Untitled Story'
+p42
+sg23
+S'StoryTitle'
+p43
+sg25
+g26
+((I2015
+I12
+I20
+I15
+I12
+I5
+I6
+I354
+I0
+tp44
+(dp45
+tp46
+Rp47
+sg31
+(lp48
+sg33
+g47
+sbsa(dp49
+g14
+I00
+sg15
+(lp50
+F22.083333333333112
+aF167.08333333333275
+asg17
+(itiddlywiki
+Tiddler
+p51
+(dp52
+g21
+S'Anonymous'
+p53
+sg23
+S'StoryAuthor'
+p54
+sg25
+g26
+((I2015
+I12
+I20
+I15
+I12
+I5
+I6
+I354
+I0
+tp55
+(dp56
+tp57
+Rp58
+sg31
+(lp59
+sg33
+g58
+sbsa(dp60
+g14
+I00
+sg15
+(lp61
+F977.8333333333338
+aF419.0000000000002
+asg17
+(itiddlywiki
+Tiddler
+p62
+(dp63
+g21
+V<<set $agency to either("Kaiser","BETA","Advanced","LÖWE","AOM","Deutsche","Credit Dr. Winterstie","Germania","Lohknecht","Credit ZA","INKG","Cred 24") + " " + either("Debt Service", "Group", "Holding","Investment","Debt Management","Debt Collection Agency","Service") + " " + either("LTD","LLC") + either(" & Co. KG","")>>\u000a<<set $signature to either("[img[9_u1]]","[img[9_u2]]","[img[9_u3]]","[img[9_u4]]","[img[9_u5]]")>>\u000a<<set $written to 0>>\u000a<<timedgoto "company_e" 0.0s>>
+p64
+sg23
+VEnglish
+p65
+sg25
+g26
+((I2015
+I12
+I21
+I0
+I9
+I35
+I0
+I355
+I0
+tp66
+(dp67
+tp68
+Rp69
+sg31
+(lp70
+sg33
+g26
+((I2015
+I12
+I20
+I15
+I48
+I13
+I6
+I354
+I0
+tp71
+(dp72
+tp73
+Rp74
+sbsa(dp75
+g14
+I00
+sg15
+(lp76
+F783.8333333333342
+aF418.33333333333354
+asg17
+(itiddlywiki
+Tiddler
+p77
+(dp78
+g21
+V<<set $agency to either("Kaiser","BETA","Advanced","LÖWE","AOM","Deutsche","Credit Dr. Winterstie","Germania","Lohknecht","Credit ZA","INKG","Cred 24") + " " + either("Inkasso-Dienst", "Gruppe", "Holding","Finanzservice","Forderungsmanagement","Gesellschaft","Inkasso","Diensleistungs") + " " + either("GmbH","UG","e.K.") + either(" & Co. KG","")>>\u000a<<set $signature to either("[img[9_u1]]","[img[9_u2]]","[img[9_u3]]","[img[9_u4]]","[img[9_u5]]")>>\u000a<<set $written to 0>>\u000a<<timedgoto "company_d" 0.0s>>
+p79
+sg23
+VDeutsch
+p80
+sg25
+g26
+((I2015
+I12
+I20
+I23
+I5
+I48
+I6
+I354
+I0
+tp81
+(dp82
+tp83
+Rp84
+sg31
+(lp85
+sg33
+g26
+((I2015
+I12
+I20
+I15
+I48
+I13
+I6
+I354
+I0
+tp86
+(dp87
+tp88
+Rp89
+sbsa(dp90
+g14
+I00
+sg15
+(lp91
+F20.499999999999794
+aF305.0000000000004
+asg17
+(itiddlywiki
+Tiddler
+p92
+(dp93
+g21
+Vbody {\u000a  /* Remove default styles */\u000a  background-color: #000000;\u000a  margin: 0;\u000a  padding: 0;\u000a  \u000a  /* Used to center the box */\u000a  text-align: center;\u000a}\u000a\u000a#passages {\u000a\u000a  /* Box width */\u000a  width: 600px;\u000amax-width: 600px;\u000a  border-left: 0px;\u000a  /* Center the box */\u000a  display: inline-block;\u000a  min-height: 40%;\u000a  margin:auto;\u000a  margin-top: 2%;\u000a  padding: 0px;\u000a  margin-left: 0;\u000a  margin-right: 0;\u000a/* automatic word break*/\u000a-moz-hyphens:auto;\u000a-ms-hyphens:auto;\u000a-webkit-hyphens:auto;\u000ahyphens:auto;\u000aword-wrap:break-word;\u000a}\u000a\u000a.passage {\u000a  margin: 0px;\u000a  /* Inner margin within the box */\u000a  padding: 2em;\u000a  /* Text formatting */\u000a  color: #c9c9c9;\u000a}\u000a\u000a#sidebar {\u000a  width: 150px;\u000a  max-width: 150px;\u000a  border-left: 0px;\u000a  /* Center the box */\u000a  display: inline-block;\u000a  min-height: 40%;\u000a  margin: 2% -160px auto;\u000a  padding: 0px;\u000a/* automatic word break*/\u000a-moz-hyphens:auto;\u000a-ms-hyphens:auto;\u000a-webkit-hyphens:auto;\u000ahyphens:auto;\u000aword-wrap:break-word;\u000aleft: auto;\u000a}\u000a\u000a#sidebar li {\u000a	display: none;\u000a}\u000a\u000a\u000a\u000a/* Links */\u000aa.internalLink, a.externalLink {\u000a  color: #55acee;\u000atext-decoration: none;\u000a}\u000aa.internalLink:hover, a.externalLink:hover {\u000a  color: #55acee;\u000atext-decoration: underline;\u000a}
+p94
+sg23
+VUntitled Stylesheet 1 #26263a #ff6666 1 1 1 1
+p95
+sg25
+g26
+((I2015
+I12
+I20
+I20
+I34
+I34
+I6
+I354
+I0
+tp96
+(dp97
+tp98
+Rp99
+sg31
+(lp100
+Vstylesheet
+p101
+asg33
+g26
+((I2015
+I3
+I31
+I1
+I36
+I36
+I1
+I90
+I1
+tp102
+(dp103
+tp104
+Rp105
+sbsa(dp106
+g14
+I00
+sg15
+(lp107
+F20.00000000000002
+aF453.3333333333329
+asg17
+(itiddlywiki
+Tiddler
+p108
+(dp109
+g21
+Vversion.extensions.timedgotoMacro={major:1,minor:2,revision:0};\u000amacros["goto"]=macros.timedgoto={timer:null,handler:function(a,b,c,d){function cssTimeUnit(s){if(typeof s=="string"){if(s.slice(-2).toLowerCase()=="ms"){return +(s.slice(0,-2))||0\u000a}else{if(s.slice(-1).toLowerCase()=="s"){return +(s.slice(0,-1))*1000||0\u000a}}}throwError(a,s+" isn't a CSS time unit");return 0}var t,d,m,s;\u000at=c[c.length-1];d=d.fullArgs();m=0;if(b!="goto"){d=d.slice(0,d.lastIndexOf(t));\u000am=cssTimeUnit(t)}d=eval(Wikifier.parse(d));if(d+""&&state&&state.init){if(macros["goto"].timer){clearTimeout(macros["goto"].timer)\u000a}s=state.history[0].passage.title;macros["goto"].timer=setTimeout(function(){if(state.history[0].passage.title==s){state.display(d,a)\u000a}},m)}}};
+p110
+sg23
+Vtimedgoto
+p111
+sg25
+g26
+((I2015
+I12
+I20
+I16
+I0
+I6
+I6
+I354
+I0
+tp112
+(dp113
+tp114
+Rp115
+sg31
+(lp116
+Vscript
+p117
+asg33
+g26
+((I2015
+I11
+I4
+I22
+I22
+I23
+I2
+I308
+I0
+tp118
+(dp119
+tp120
+Rp121
+sbsa(dp122
+g14
+I00
+sg15
+(lp123
+F776.6666666666689
+aF575.0000000000007
+asg17
+(itiddlywiki
+Tiddler
+p124
+(dp125
+g21
+V<<display "Timer Addon">><<set_timer_mode "display">>\u000a<<set_timer_param "time_d">><<print either("<img width='600px' src='http://www.ausbildung.de/system/uploads/profession/sugar_image/53eb0aac6175730d5b0b0000/fills_980x580_Ausbildung_zur_Kauffrau_B_romanagement_Inkasso.jpg'>",\u000a"<img width='600px' src='http://www.postulatio-inkasso.eu/wp-content/themes/postulatio/images/teaser/05.jpg'>",\u000a"<img width='600px' src='https://www.koenigs-inkasso.de/images/slides/04_44.jpg'>",\u000a"<img width='600px' src='http://www.eos-solutions.com/fileadmin//_migrated/media/EOS_Startseitenbilder_corporate_dienstleistungen.jpg'>",\u000a"<img width='600px' src='https://karriere.schufa.de/media/karriereseite/teaserbilder_9/sch-0850_Karriereseite_Wen_wir_suchen_800x230_1400x400.jpg'>",\u000a"<img width='600px' src='https://karriere.schufa.de/media/karriereseite/teaserbilder_9/sch-0850_Karriereseite_Direkteinstieg_800x230_1400x400.jpg'>",\u000a"<img width='600px' src='https://karriere.schufa.de/media/karriereseite/teaserbilder_9/sch-0850_Karriereseite_Duales_Studium_800x230_1400x400.jpg'>",\u000a"<img width='600px' src='https://www.schufa.de/media/unternehmenskunden/bilder_1/teaserbilder/teaser_9/Teaser_9_Header_Nachmeldung_800x230px_1400x400.jpg'>",\u000a"<img width='600px' src='https://www.schufa.de/media/unternehmenskunden/bilder_1/teaserbilder/teaser_9/Teaser_9_Scoring1_800x230px_1400x400.jpg'>",\u000a"<img width='600px' src='http://www.rofast.de/rofast-wAssets/fotos/keyvisual/abmahnung-inkasso-scheidung-22-05-2014.jpg'>",\u000a"<img width='600px' src='http://www.adebio-inkasso.de/images/slider_img/14.png'>",\u000a"<img width='600px' src='https://www.inkasso-haydn.at/upload/imgproc/554557_eb.jpg'>",\u000a"<img width='600px' src='http://www.addere-inkasso.de/Inkasso_und_Forderungsmanagement-Team.jpg'>",\u000a"<img width='600px' src='http://www.straetus-koeln.de/typo3temp/pics/567d3b88ea.jpg'>",\u000a"<img width='600px' src='http://www.dit-inkasso.de/_uploads/51892ff7838de/pic2.jpg'>",\u000a"<img width='600px' src='http://www.straetus-inkasso.de/typo3temp/pics/6fbe1d4b3d.jpg'>",\u000a"<img width='600px' src='https://www.gfkl.com/fileadmin/user_upload/GFKL%20Sirius%20Inkasso/Bilder/GFKL_Header_0005_sirius.jpg'>",\u000a"<img width='600px' src='http://inkasso.de/sites/default/files/BDIU_JHV_2015-014.jpg'>",\u000a"<img width='600px' src='http://www.buergel-solutions.de/img/img-gallery3.jpg'>",\u000a"<img width='600px' src='http://neuerunternehmergeist.de/thb/article-headlines/1141/Fotolia_89428132_Subscription_Monthly_M.jpg'>",\u000a"<img width='600px' src='http://www.straetus-inkasso.de/uploads/pics/umsatzsteuer-in-inkasso-abrechnungen-berechnen.jpg'>",\u000a"<img width='600px' src='http://www.drduve-inkasso.de/fileadmin/user_upload/ausbildung_shutterstock_109056515.jpg'>",\u000a"<img width='600px' src='https://www.eos-solutions.com/fileadmin/_processed_/csm_EOS_Board_of_Directors_a9b63b2c54.jpg'>",\u000a"<img width='600px' src='https://www.eos-solutions.com/fileadmin/_processed_/csm_EOS_Board_Hans-Werner_Scherer_9d8763549a.jpg'>")>>\u000a\u000a\u000aSie arbeiten für <<print $agency>>.\u000a\u000aSitz: <<print either("Hamburg","Herdecke","Kassel","Krefeld","Creußen","Lichtenfels","Ettenheim","Oberweißbach","Cottbus","Wildeshausen","Langen","Lüdenscheid","Endingen am Kaiserstuhl","Ravenstein","Auerbach in der Oberpfalz")>>\u000a\u000aIm vergangenen Quartal wurden <<print random(123,599)>>,<<print random(1,9)>> Millionen Euro Umsatz erwirtschaftet. <<print random(2,40)>>,<<print random(1,9)>>% weniger als prognostiziert.\u000a\u000aDas ist nicht akzeptabel.<<set $vorbei to false>>\u000a\u000a<<if $written >= 2>>Es befindet sich eine [[Notiz|note_d]] auf Ihrem Schreibtisch.<<else>>[[Arbeiten.|goto_d]]<<endif>><<set $written += 1>>
+p126
+sg23
+Vcompany_d
+p127
+sg25
+g26
+((I2015
+I12
+I21
+I0
+I14
+I51
+I0
+I355
+I0
+tp128
+(dp129
+tp130
+Rp131
+sg31
+(lp132
+sg33
+g26
+((I2015
+I12
+I20
+I16
+I0
+I40
+I6
+I354
+I0
+tp133
+(dp134
+tp135
+Rp136
+sbsa(dp137
+g14
+I01
+sg15
+(lp138
+F428.6666666666676
+aF719.6666666666662
+asg17
+(itiddlywiki
+Tiddler
+p139
+(dp140
+g21
+V<<if $vorbei is true>><<timedgoto "time_d" 0.0s>><<endif>><<set $visit += 1>>Aktenzeichen: <<print $content>>\u000a\u000a<<if $visit is 1>>[[Sehr geehrte/r Herr/Frau (Subjekt),|letter_d][$content += "<br><br>Sehr geehrt" + either("e Frau ","er Herr ") + either("Müller","Schmidt","Schneider","Fischer","Meyer","Weber","Wagner","Becker","Schulz","Hoffmann","Schäfer","Koch","Bauer","Klein","Neumann","Schwarz","Krüger","Hartmann","Lange","Meier","Krause","Schmid","Köhler","Dietrich","Haas","Nowak","Pietsch","Yilmaz","Günther","Roth","Franke","Ziegler","Pohl")+","]]<<endif>>\u005c\u000a\u005c\u000a\u005c\u000a\u005c\u000a\u005c\u000a<<if $visit is 2>><<if visited() < 5>>[[wir zeigen an, mit dem Einzug der unten genannten Forderung durch unsere Gläubigerin beauftragt worden zu sein.|letter_d][$content += "<br><br>wir zeigen an, mit dem Einzug der unten genannten Forderung durch unsere Gläubigerin beauftragt worden zu sein."]]<<else>>[[wir zeigen an, mit dem Einzug der unten genannten Forderung durch unsere Gläubigerin beauftragt worden zu sein.|letter_d][$content += "<br><br>wir zeigen an, mit dem Einzug der unten genannten Forderung durch unsere Gläubigerin beauftragt worden zu sein."]]\u000a\u000a[[leider haben Sie bislang auf keines unserer Angebote zu Ihrer Gunsten reagiert.|letter_d][$content += "<br><br>leider haben Sie bislang auf keines unserer Angebote zu Ihrer Gunsten reagiert."]]\u000a\u000a[[es ist nun an der Zeit Ihre Schulden aus der Welt zu schaffen.|letter_d][$content += "<br><br>es ist nun an der Zeit Ihre Schulden aus der Welt zu schaffen."]]\u000a\u000a[[sie lassen uns leider keine andere Wahl als Ihnen diese finale Mahnung zu erteilen!|letter_d][$content += "<br><br>sie lassen uns leider keine andere Wahl als Ihnen diese finale Mahnung zu erteilen!"]]<<endif>><<endif>>\u005c\u000a\u005c\u000a\u005c\u000a\u005c\u000a\u005c\u000a\u005c\u000a\u005c\u000a<<if $visit is 3>>[[Wir fordern Sie deshalb auf, die errechnete Gesamtforderung in Höhe von|letter_d][$content += "<br><br>Wir fordern Sie deshalb auf, die errechnete Gesamtforderung in Höhe von"]]<<endif>>\u005c\u000a\u005c\u000a<<if $visit is 4>>\u005c\u000a<<set $forder1 = random(35,2500) + "," + random(10,99)>><<set $forder2 = random(35,2500) + "," + random(10,99)>><<set $forder3 = random(35,2500) + "," + random(10,99)>>\u005c\u000a<center>[[<<print $forder1>> EUR|letter_d][$content += "<br><br><br><center>" + $forder1 +  " EUR</center>"]]\u000a\u000a[[<<print $forder2>> EUR|letter_d][$content += "<br><br><br><center>" + $forder2 +  " EUR</center>"]]\u000a\u000a[[<<print $forder3>> EUR|letter_d][$content += "<br><br><br><center>" + $forder3 +  " EUR</center>"]]</center><<endif>>\u005c\u000a\u005c\u000a<<if $visit is 5>>[[zzgl. Zinsen und Kosten, die Sie infolge Ihres Zahlungsverzuges zu tragen haben, an unser anliegend genanntes Konto zu überweisen.|letter_d][$content += "<br><br>zzgl. Zinsen und Kosten, die Sie infolge Ihres Zahlungsverzuges zu tragen haben, an unser anliegend genanntes Konto zu überweisen."]]<<endif>>\u005c\u000a\u005c\u000a\u005c\u000a\u005c\u000a\u005c\u000a\u005c\u000a\u005c\u000a\u005c\u000a<<if $visit is 6>><<if random(0,1,2,3) is 0>>[[Wir erwarten den Eingang des oben genannten Betrags innerhalb von 7 Tagen (Eingangsdatum) auf unserem Konto!|letter_d][$content += "<br><br>Wir erwarten den Eingang des oben genannten Betrags innerhalb von 7 Tagen (Eingangsdatum) auf unserem Konto!"]]\u000a\u000a[[Wir erwarten den Eingang des oben genannten Betrags innerhalb von 14 Tagen (Eingangsdatum) auf unserem Konto!|letter_d][$content += "<br><br>Wir erwarten den Eingang des oben genannten Betrags innerhalb von 14 Tagen (Eingangsdatum) auf unserem Konto!"]]<<elseif random(0,1,2) is 0>>[[Nach Fristverstreichung werden wir nach unserem Auftrag gegen Sie vorgehen. Lassen Sie es nicht so weit kommen!|letter_d][$content += "<br><br>Nach Fristverstreichung werden wir nach unserem Auftrag gegen Sie vorgehen. Lassen Sie es nicht so weit kommen!"]]<<else>><<if random(0,1) is 0>>[[Der Gerichtsvollzieher ist bereits benachrichtigt.|letter_d][$content += "<br><br>Der Gerichtsvollzieher ist bereits benachrichtigt."]]\u000a\u000a[[Eine entsprechende negative Benachrichtigung an Ihr Kreditinstitut ist bereits erfolgt.|letter_d][$content += "<br><br>Eine entsprechende negative Benachrichtigung an Ihr Kreditinstitut ist bereits erfolgt."]]<<else>>[[Sollte Ihnen die Zahlung des oben genannten Betrags nicht unmittelbar möglich sein, unterbreiten Sie uns bitte auf dem anliegenden Formular umgehend Ihren Zahlungsvorschlag.|letter_d][$content += "<br><br>Sollte Ihnen die Zahlung des oben genannten Betrags nicht unmittelbar möglich sein, unterbreiten Sie uns bitte auf dem anliegenden Formular umgehend Ihren Zahlungsvorschlag."]]\u000a\u000a[[Sollte Ihnen die Zahlung des oben genannten Betrags nicht unmittelbar möglich sein, sind Sie hiermit aufgefordert den anliegenden Ratenzahlungsvergleich innerhalb von 7 Tagen unterzeichnet an uns zurückzusenden und die entsprechende Rate (zzgl. Tageszins und Einigungsvergütung) pünktlich zu überweisen.|letter_d][$content += "<br><br>Sollte Ihnen die Zahlung des oben genannten Betrags nicht unmittelbar möglich sein, sind Sie hiermit aufgefordert den anliegenden Ratenzahlungsvergleich innerhalb von 7 Tagen unterzeichnet an uns zurückzusenden."]]\u000a\u000a[[Ist wider Erwarten die Zahlung des oben genannten Betrags Ihnen nicht fristgerecht möglich, senden Sie uns umgehend die anliegende Abtretungserklärung innerhalb von 7 Tagen unterschrieben zurück. Entsprechende Vergütungserstattungen sind in diesem Falle innerhalb von einem Monat an uns zu leisten.|letter_d][$content += "<br><br>Ist wider Erwarten die Zahlung des oben genannten Betrags Ihnen nicht fristgerecht möglich, senden Sie uns umgehend die anliegende Abtretungserklärung innerhalb von 7 Tagen unterschrieben zurück. Entsprechende Vergütungserstattungen sind in diesem Falle innerhalb von einem Monat an uns zu leisten."]]<<endif>><<endif>><<endif>>\u005c\u000a\u005c\u000a\u005c\u000a\u005c\u000a\u005c\u000a\u005c\u000a<<if $visit is 7>>[[Sollten Sie nicht bereit sein Ihre Schuld zu begleichen sehen wir uns gezwungen weitere zwangsvollstreckende Maßnahmen gegen Sie einzuleiten. Diese beinhalten unter Anderem:|letter_d][$content += "<br><br>Sollten Sie nicht bereit sein Ihre Schuld zu begleichen sehen wir uns gezwungen weitere zwangsvollstreckende Maßnahmen gegen Sie einzuleiten. Diese beinhalten unter Anderem:"]]<<endif>>\u005c\u000a<<if $visit is 8>>[[Pfändung und Sperrung Ihres Kontos.|letter_d][$content += "<br><br>Pfändung und Sperrung Ihres Kontos."]]\u000a\u000a[[Sperrung Ihrer Kreditkarten.|letter_d][$content += "<br><br>Sperrung Ihrer Kreditkarten."]]\u000a\u000a[[Sperrung Ihres Mobil- und Festnetzvertrags.|letter_d][$content += "<br><br>Sperrung Ihres Mobil- und Festnetzvertrags."]]\u000a\u000a[[Beendigung Ihres Mietverhätnisses.|letter_d][$content += "<br><br>Beendigung Ihres Mietverhätnisses."]]\u000a\u000a[[Pfändung Ihres Barvermögens und liquidirbaren Sachvermögens.|letter_d][$content += "<br><br>Pfändung Ihres Barvermögens und liquidirbaren Sachvermögens."]]\u000a\u000a[[Benachrichtigung Ihres Arbeitgebers.|letter_d][$content += "<br><br>Benachrichtigung Ihres Arbeitgebers."]]<<endif>>\u005c\u000a\u005c\u000a<<if $visit is 9>><<if random(0,1,2,3) is 0>>[[Sollten Sie sich nicht zu Ihren Missständen äußern, sehen wir uns dazu gezwungen weitere gerichtliche Schritte gegen Sie in die Wege zu leiten.|letter_d][$content += "<br><br>Sollten Sie sich nicht zu Ihren Missständen äußern, sehen wir uns dazu gezwungen weitere gerichtliche Schritte gegen Sie in die Wege zu leiten."]]<<elseif random(0,1,2) is 0>>[[In Erfüllung unserer Pflicht nach §5-65201-B weisen wir Sie darauf hin, dass wir Daten von fälligen und unbestrittenen Forderungen zur Wahrungen unserer Interessen und der Interessen Dritter an Wirtschaftsauskunfteien zur Bonitätsprüfung weiterleiten und nach eigenem Ermessen speichern.|letter_d][$content += "<br><br>In Erfüllung unserer Pflicht nach §5-65201-B weisen wir Sie darauf hin, dass wir Daten von fälligen und unbestrittenen Forderungen zur Wahrungen unserer Interessen und der Interessen Dritter an Wirtschaftsauskunfteien weiterleiten und nach eigenem Ermessen speichern."]]<<elseif random(0,1) is 0>>[[Dies ist die letzte Warnung an Sie!|letter_d][$content += "<br><br>Dies ist die letzte Warnung an Sie!"]]<<else>>[[Für Rückfragen sind wir unter folgender Telefonnummer zu erreichen: (Service-Nummer)|letter_d][$content += "<br><br>Für Rückfragen sind wir unter folgender Telefonnummer zu erreichen: 0"+random(0,9)+random(0,9)+random(0,9)+random(0,9)+random(0,9)+random(0,9)+random(0,9)+random(0,9)+random(0,9)+random(0,9)+random(0,9)]]<<endif>><<endif>>\u005c\u000a\u005c\u000a\u005c\u000a\u005c\u000a\u005c\u000a\u005c\u000a\u005c\u000a\u005c\u000a<<if $visit is 10>>[[(Signatur)|letter_d][$content += "<br><br>Mit freundlichen Grüßen,<br><br>" + $signature + "<br>" + $agency]]<<endif>>\u005c\u000a\u005c\u000a<<if $visit is 11>>[[Abschicken|send_d]]<<endif>>\u005c\u000a
+p141
+sg23
+Vletter_d
+p142
+sg25
+g26
+((I2015
+I12
+I21
+I0
+I15
+I15
+I0
+I355
+I0
+tp143
+(dp144
+tp145
+Rp146
+sg31
+(lp147
+sg33
+g26
+((I2015
+I12
+I20
+I16
+I39
+I51
+I6
+I354
+I0
+tp148
+(dp149
+tp150
+Rp151
+sbsa(dp152
+g14
+I00
+sg15
+(lp153
+F18.666666666666814
+aF718.333333333333
+asg17
+(itiddlywiki
+Tiddler
+p154
+(dp155
+g21
+Vdata:image/png;base64,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
+p156
+sg23
+V9_u5
+p157
+sg25
+g26
+((I2015
+I12
+I20
+I16
+I40
+I42
+I6
+I354
+I0
+tp158
+(dp159
+tp160
+Rp161
+sg31
+(lp162
+S'Twine.image'
+p163
+asg33
+g161
+sbsa(dp164
+g14
+I00
+sg15
+(lp165
+F18.666666666666814
+aF858.3333333333327
+asg17
+(itiddlywiki
+Tiddler
+p166
+(dp167
+g21
+Vdata:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJMAAABNCAYAAACi0VZKAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAC4jAAAuIwF4pT92AAAAB3RJTUUH3wwUDyYBirLdHAAAAB1pVFh0Q29tbWVudAAAAAAAQ3JlYXRlZCB3aXRoIEdJTVBkLmUHAAAECElEQVR42u2dTYiVVRjH/+YUE4KaCGEpFiKJLhRbHFQoA01pSvtaKILoqoVuVMSNmBgM6UY0URdK6iJatLDoQ3GhbRoeKtPyg0htkQs1QkXxc9Q2/4MvL/fqHb1zvTP394Phec6Zc973zjnP/Z/nfc9770gAAAAAAAAAAAAATcSA/vKHRMRASfslKaU0g6ltPE8xBEAwlUgp3ZH0iX+AYIK+TFs/ypmOSprGlKJMgDI1hSK9aPdkSukqU4oyAcrUFMzx1dw8ppNgetTlbZDdlbbbmE6WOUCZnpgi5S2g12zfK/zukN1lXvp+Y4pRJuiD9NmN3ojosrvedrek2VakLqYWZQJypoYq0gq7z9i+bbu9rEh+LEWSXrUdansupfQ7048yAcpUN9Y7L2qz+px3+fkKbf+xnV8qr5K0qEYlbJP0tIs3fa67hA7KBK2sTBGxuZT3LHR9R7Hsuql2d1hBXnD9n65f4vpFNZz3D7vPSRpuf4LtaUKnyYOpcEMyc0bSFPufOhC+cNsTLo8vtP/YdrLbHHObV0rnmSLpAxfLz0D9WiofkbTAx7lMyLDMQQsuc522Q6wEL0dEVoq5VpV1Lr9Vof+HttdtD7nPJpdP2nZL2ms/L4Hv2l60XezX8AthgjJBKyhTITfKNx532W63GvxYaL7XdWfd93WX11Q49FX/boDbdpbyohu2pyTl/j+5TwfhgDJBi+dMY22/syqMrXQ1FxGHJU0v9T1b7aAppXulqg2279sutR0uaUQxZ4qIMS6XryjvSbrg418hZFAmaAANfwQlIn6Q9JXf6TurtBln96WU0j7XTXRdh/t2uj5vdbRLmml/YzFHKt9nqnLOb0pXgpmBun+va2gdFf2S7bjsV1BWlAlQpt5Sopwfhe3IlNK1Km2H2D3sd+qYCm2O280bu7dsV0r62n7ekL3drAPvDeR8RfuzX+8EEvDKg5WT3vz047Aauu2qFkQF8lJ2pS8nxSmlbrvdEdEvPqbFMgfNu8xFRF5qtvgdeOABbfP5887/X7Zd/SEh5dYAwJPOmQqfWcubrf/V0C3nRrOsRLuZEpQJoG6q9HcxD6rwkFu1fgcj4iAjiDIB1C9nioi8DZC3GWq6AouIPXaXMwUoE0B9lCkiVpcVqQd939T9z74dZwpaLJgKCfU7tmceIYja7U5NKa1l6FnmAB57mUu2+Vmij3qgZvnrAr913+kMO8oEUBdl2mpVmdyDY4+2/d59xzPcKBNAXZXpVg+u2vLX17yBIqFMAL2qTEdqUKTP7X5m+yXDizIB9KoyHX2IKt2QNMo50r8MK8H0IK45aJ51OS9pgx1A7QwlsMxBw5Vpkm2+zM+7/vxvEkCZAAAAAAAAAAAAAAAAABrM/74YLidH+XNGAAAAAElFTkSuQmCC
+p168
+sg23
+V9_u1
+p169
+sg25
+g26
+((I2015
+I12
+I20
+I16
+I40
+I42
+I6
+I354
+I0
+tp170
+(dp171
+tp172
+Rp173
+sg31
+(lp174
+g163
+asg33
+g173
+sbsa(dp175
+g14
+I00
+sg15
+(lp176
+F18.666666666666814
+aF998.3333333333334
+asg17
+(itiddlywiki
+Tiddler
+p177
+(dp178
+g21
+Vdata:image/png;base64,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
+p179
+sg23
+V9_u2
+p180
+sg25
+g26
+((I2015
+I12
+I20
+I16
+I40
+I42
+I6
+I354
+I0
+tp181
+(dp182
+tp183
+Rp184
+sg31
+(lp185
+g163
+asg33
+g184
+sbsa(dp186
+g14
+I00
+sg15
+(lp187
+F158.66666666666606
+aF718.333333333333
+asg17
+(itiddlywiki
+Tiddler
+p188
+(dp189
+g21
+Vdata:image/png;base64,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
+p190
+sg23
+V9_u3
+p191
+sg25
+g26
+((I2015
+I12
+I20
+I16
+I40
+I42
+I6
+I354
+I0
+tp192
+(dp193
+tp194
+Rp195
+sg31
+(lp196
+g163
+asg33
+g195
+sbsa(dp197
+g14
+I00
+sg15
+(lp198
+F158.66666666666606
+aF858.3333333333327
+asg17
+(itiddlywiki
+Tiddler
+p199
+(dp200
+g21
+Vdata:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJMAAABNCAYAAACi0VZKAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAC4jAAAuIwF4pT92AAAAB3RJTUUH3wwUDyYQ4AL97gAAAB1pVFh0Q29tbWVudAAAAAAAQ3JlYXRlZCB3aXRoIEdJTVBkLmUHAAAEYUlEQVR42u2cXWhXZRzHv7phI4pyshItX0ZBvrQlGT+pfEsWE3UIdaEOL8QYdtG6CaLIVES7iFAQutDCGKIX6qWIjHwhFH4KG7HyBbQQQcSSWOmGm27dfB92enD/2Xa2/XfO93Pz/Z1znvM8z/9/nvM9v/MKCCGEEEIIIYQQQgghhBBCCFHcuPsUd58y1n/HeG1KkRal+guKgovUZ+VMQmTNmdy9NPpdvdSHAGBmD4qwzxMAbMvC/y9nEqkxLgNuVM7wGoAnGF+lPkOtoN6n/mRmdaPc7ycZnjIz02AanY0Q+vwm9S71dzP7e4B1gxO/DOApxsepe3go3D7M/Z5MPcL23sqKM+kwJ3SYc/dfuGfPTam+ZQx3UWtZ/82U6n+F4bes952sDSY5k8jfpYFEzvEFtTHlJk7SMarY3gXOfyOFU38A+CarjiRnEsqZ3P0S9/BZw9zOdIZNZrZ4EOu/GJ21WdYHk5xJ5DJnepvhgRFq8g71tQJ9Kk3ulGbWxfllAA7nxZHkTCK/zgSgiXt65Qi19zy1NT6jNLNwA7mb2sHlGzldYWYLNJiKl2PcYOu4QQ8Oc3vfs50l7r6b815lH8I9wPB05B5qG9f5NY/OpMOcyPWlgWbu/TUp1/s+wwZqTcJtPmC8lvoDdSd1M/vUkufBJGcSucyZAifoJFc4fZZ6FMBUxuFZoZlRMj2P2gMgPHX5XOTSX9Jl3k24VhvDcAvnM5ZZoSEkZxLKmQrmPHvBC4UAfqRz9BQo/xHDFSxbGy0vYdgJYCvj2yz7nYaOnEnImYbsWsFlws3hlpBX9ffGiruH/KoJQBXL9mrIyJmEzuaG7EjrGX5N3USHmfAYq4drRiVypJwNJndfDGBLdElgOXUaB1FXgfVXReu0DpTEp9j3RQyHMmjDbzvEfleO9DbQYU6MnQTc3acx/ITag76LiuOjfoTpkDDPAF/tBlAdVT0xmr7O03ig70MQ/0QOXJYoPyMqs4Qanv1+iXoFfS9zjutnZ2yJ+p0kvBD6Z4G/qTPFv/wPOtMROZNQzlSAe5ED9NJFAF4wTPTjBWr4tMx98PYJ+HhHor5bj3CzdsYLqV9R/+LeejvhmFUMN3DZ0shRQx+azWy2hoqcSRR7zuTuIZ/4nPp6geLhNLz8EW51ntpB3UaXuD7Ifp1juJH1XOqnXBWAT1mmfoA6zwOoY9lbGjJyJpGFs7mRgl84aaeDPN1PmTkMd5jZ6v9R9w2GK1n/zxo6ciYhZ3psB6mkc/wWzQ/fcmrk8jWDrH8/w27W06AhlM3DXDf45bhwC8TdP+Tias7flFJbkxheph5KLjezxkTZ+PUoHeaEyLwzJT4QsS88LenuZzhvC13hdMpt/sdt3P295OEPQCWAj1lmphJwIXLoTOGNlP3oewslfHT03mjnK8qZhBgEWXg4LnzyptzMqoutc3l6SlPOJORMCerpAPO1OeVMQgghhBBCCCGEEEIIIYQQQgghhBBCCCFEqvwLEu9JfIXruboAAAAASUVORK5CYII=
+p201
+sg23
+V9_u4
+p202
+sg25
+g26
+((I2015
+I12
+I20
+I16
+I40
+I43
+I6
+I354
+I0
+tp203
+(dp204
+tp205
+Rp206
+sg31
+(lp207
+g163
+asg33
+g206
+sbsa(dp208
+g14
+I00
+sg15
+(lp209
+F646.6666666666678
+aF571.6666666666675
+asg17
+(itiddlywiki
+Tiddler
+p210
+(dp211
+g21
+V<<if $written is 3>>Betriebswirtschaftliches Negativwachstum führt zu humankapitalem Abbau.\u000a\u000aSie sind hiermit gewarnt.\u000a\u000a[[Arbeiten.|goto_d]]<<else if $written is 4>>Sehr geehrte/r Mitarbeiter/in,\u000a\u000ain Anbetracht Ihrer negativen Leistungsentwicklung über die letzten Quartale müssen wir Sie hiermit darüber informieren, dass Ihr Arbeitsverhältnis mit sofortiger Wirkung [[aufgelöst|new_d]] wird.\u000a\u000aWir bedanken uns für Ihre Zusammenarbeit.\u000a\u000aMit freundlichen Grüßen,\u000a\u000a<<print $signature>>\u000a<<print $agency>><<endif>>
+p212
+sg23
+Vnote_d
+p213
+sg25
+g26
+((I2015
+I12
+I20
+I23
+I2
+I5
+I6
+I354
+I0
+tp214
+(dp215
+tp216
+Rp217
+sg31
+(lp218
+sg33
+g26
+((I2015
+I12
+I20
+I17
+I35
+I44
+I6
+I354
+I0
+tp219
+(dp220
+tp221
+Rp222
+sbsa(dp223
+g14
+I00
+sg15
+(lp224
+F648.6666666666673
+aF883.0000000000016
+asg17
+(itiddlywiki
+Tiddler
+p225
+(dp226
+g21
+VUnd jetzt?\u000a\u000a[[Auf eine neue Stelle bewerben.|Deutsch]]
+p227
+sg23
+Vnew_d
+p228
+sg25
+g26
+((I2015
+I12
+I20
+I20
+I51
+I26
+I6
+I354
+I0
+tp229
+(dp230
+tp231
+Rp232
+sg31
+(lp233
+sg33
+g26
+((I2015
+I12
+I20
+I17
+I36
+I13
+I6
+I354
+I0
+tp234
+(dp235
+tp236
+Rp237
+sbsa(dp238
+g14
+I00
+sg15
+(lp239
+F165.00000000000028
+aF303.6666666666668
+asg17
+(itiddlywiki
+Tiddler
+p240
+(dp241
+g21
+V#timer_text\u000a{\u000a	display: none;\u000a	color: #000000; /* Jonah */\u000a	color: #BBBBBB; /* Sugarcane */\u000a	font-weight: bold;\u000a	font-size: 22px;\u000a	margin: 5px 0 20px 0;\u000a}\u000a\u000a#timer_canvas\u000a{\u000a	display: none;\u000a	width: 120px;\u000a	height: 120px;\u000a}
+p242
+sg23
+VTimer Stylesheet
+p243
+sg25
+g26
+((I2015
+I12
+I20
+I20
+I35
+I55
+I6
+I354
+I0
+tp244
+(dp245
+tp246
+Rp247
+sg31
+(lp248
+Vstylesheet
+p249
+asg33
+g26
+((I2012
+I11
+I2
+I1
+I11
+I53
+I4
+I307
+I0
+tp250
+(dp251
+tp252
+Rp253
+sbsa(dp254
+g14
+I00
+sg15
+(lp255
+F165.33333333333331
+aF447.0000000000003
+asg17
+(itiddlywiki
+Tiddler
+p256
+(dp257
+g21
+V<<silently>>\u000a<<set $TimerAddon = \u000afunction()\u000a{\u000a	var div_timer_container = document.createElement('div');\u000a	div_timer_container.setAttribute('id', 'timer');\u000a\u000a	var div_timer_canvas = document.createElement('canvas');\u000a	div_timer_canvas.setAttribute('id', 'timer_canvas');\u000a	div_timer_canvas.setAttribute('width', '150');\u000a	div_timer_canvas.setAttribute('height', '150');\u000a	div_timer_canvas.width = div_timer_canvas.width;\u000a	div_timer_container.appendChild(div_timer_canvas);\u000a	\u000a	var div_timer_text = document.createElement('span');\u000a	div_timer_text.setAttribute('id', 'timer_text');\u000a	div_timer_text.innerHTML = "";\u000a	div_timer_container.appendChild(div_timer_text);\u000a\u000a	var Timer_Active = false;\u000a  var Timer_Paused = false;\u000a	var Timer_Mode = 'none';\u000a	var Timer_Param = "";\u000a	var Timer_Max = 0;\u000a	var Timer_Now = 0;\u000a  \u000a	var div_jonah_floater = document.getElementById('floater');\u000a	if(div_jonah_floater) 		div_jonah_floater.appendChild(div_timer_container);\u000a\u000a	var div_sugarcane_menu = document.getElementById('sidebar');\u000a	if(div_sugarcane_menu) div_sugarcane_menu.appendChild(div_timer_container);\u000a\u000a	function StartTimer(val)\u000a	{\u000a		Timer_Active = true;\u000a    Timer_Paused = false;\u000a		Timer_Max = val;\u000a		Timer_Now = val;\u000a		div_timer_text.style.display = 'block';\u000a		div_timer_canvas.style.display = 'block';\u000a	}\u000a\u000a	function StopTimer()\u000a	{\u000a		Timer_Active = false;\u000a		div_timer_text.style.display = 'none';\u000a		div_timer_canvas.style.display = 'none';\u000a	}\u000a\u000a	function PauseTimer()\u000a	{\u000a		Timer_Paused = true;\u000a	}\u000a\u000a	function ResumeTimer()\u000a	{\u000a		Timer_Paused = false;\u000a	}\u000a\u000a	function SetTimerText(text)\u000a	{\u000a		div_timer_text.innerHTML = text;\u000a	}\u000a\u000a	function SetTimerMode(mode)\u000a	{\u000a		if(mode == 'display')\u000a		{\u000a			Timer_Mode = 'display';\u000a		}\u000a		else if(mode == 'restart')\u000a		{\u000a			Timer_Mode = 'restart';\u000a		}\u000a		else Timer_Mode = 'none';\u000a	}\u000a\u000a	function SetTimerParam(param)\u000a	{\u000a		Timer_Param = param;\u000a	}\u000a\u000a	function OnTimerEnd()\u000a	{\u000a		StopTimer();\u000a		if(Timer_Mode == 'restart')\u000a		{\u000a			state.restart();\u000a			if(Timer_Param) alert(Timer_Param);\u000a			window.location.reload(true);\u000a			\u000a		} \u000a		else if(Timer_Mode == 'display')\u000a		{\u000a			state.display(Timer_Param[0]);\u000a		}\u000a	}\u000a\u000a	function OnTimerTick()\u000a	{\u000a		if(Timer_Active && !Timer_Paused)\u000a		{\u000a			Timer_Now = Timer_Now - 0.1;\u000a\u000a			if(Timer_Now <= 0) Timer_Now = 0;\u000a			\u000a			var context = div_timer_canvas.getContext("2d");\u000a			div_timer_canvas.width = div_timer_canvas.width;\u000a\u000a			var x = div_timer_canvas.width / 2;\u000a	      var y = div_timer_canvas.height / 2;\u000a	      var radius = 65;\u000a	      var startAngle = 1.5 * Math.PI;\u000a	      \u000a	      var endAngle = (1.5 + (2 / Timer_Max * Timer_Now)) * Math.PI;\u000a	      var counterClockwise = false;\u000a\u000a	      context.beginPath();\u000a	      context.arc(x, y, radius, startAngle, endAngle, counterClockwise);\u000a	      context.lineWidth = 15;\u000a        if(div_jonah_floater) context.strokeStyle = "black";\u000a	      if(div_sugarcane_menu)  context.strokeStyle = "#BBBBBB";\u000a	      context.stroke();\u000a\u000a			context.font = 'bold 30px sans-serif';\u000a			if(div_jonah_floater) context.fillStyle = "black";\u000a			if(div_sugarcane_menu)  context.fillStyle = "#BBBBBB";\u000a			context.fillText(Timer_Now.toFixed(1), 55, 85);\u000a\u000a			if(Timer_Now <= 0) OnTimerEnd();\u000a		}\u000a	}\u000a\u000a	setInterval(function(){ OnTimerTick(); }, 100); \u000a\u000a	macros['start_timer'] =\u000a	{\u000a		handler: function(obj, fnc, val)\u000a		{\u000a			StartTimer(val);\u000a		}\u000a	}\u000a\u000a	macros['stop_timer'] =\u000a	{\u000a		handler: function(obj, fnc, val)\u000a		{\u000a			StopTimer();\u000a		}\u000a	}\u000a\u000a	macros['pause_timer'] =\u000a	{\u000a		handler: function(obj, fnc, val)\u000a		{\u000a			PauseTimer();\u000a		}\u000a	}\u000a\u000a	macros['resume_timer'] =\u000a	{\u000a		handler: function(obj, fnc, val)\u000a		{\u000a			ResumeTimer();\u000a		}\u000a	}\u000a\u000a	macros['set_timer_text'] =\u000a	{\u000a		handler: function(obj, fnc, val)\u000a		{\u000a			SetTimerText(val);\u000a		}\u000a	}\u000a\u000a	macros['set_timer_mode'] =\u000a	{\u000a		handler: function(obj, fnc, val)\u000a		{\u000a			SetTimerMode(val);\u000a		}\u000a	}\u000a\u000a	macros['set_timer_param'] =\u000a	{\u000a		handler: function(obj, fnc, val)\u000a		{\u000a			SetTimerParam(val);\u000a		}\u000a	}\u000a\u000a}\u000a>>\u000a<<print $TimerAddon()>>\u000a<<endsilently>>
+p258
+sg23
+VTimer Addon
+p259
+sg25
+g26
+((I2015
+I12
+I20
+I20
+I25
+I18
+I6
+I354
+I0
+tp260
+(dp261
+tp262
+Rp263
+sg31
+(lp264
+sg33
+g26
+((I2012
+I11
+I2
+I1
+I3
+I23
+I4
+I307
+I0
+tp265
+(dp266
+tp267
+Rp268
+sbsa(dp269
+g14
+I00
+sg15
+(lp270
+F490.00000000000034
+aF578.3333333333345
+asg17
+(itiddlywiki
+Tiddler
+p271
+(dp272
+g21
+V<<set $content to random(11111111,99999999)>>\u000a<<set $geschafft to 0>>\u000a<<start_timer 35>>\u000a<<set $visit to 0>>\u000a<<timedgoto "letter_d" 0.0s>>
+p273
+sg23
+Vgoto_d
+p274
+sg25
+g26
+((I2015
+I12
+I20
+I23
+I6
+I40
+I6
+I354
+I0
+tp275
+(dp276
+tp277
+Rp278
+sg31
+(lp279
+sg33
+g26
+((I2015
+I12
+I20
+I20
+I15
+I36
+I6
+I354
+I0
+tp280
+(dp281
+tp282
+Rp283
+sbsa(dp284
+g14
+I00
+sg15
+(lp285
+F778.3333333333325
+aF720.0000000000013
+asg17
+(itiddlywiki
+Tiddler
+p286
+(dp287
+g21
+V<<set $vorbei to true>>Sie haben ''<<print $geschafft>> Schreiben'' im [[Geschäftsquartal|company_d]] verschickt.\u000a\u000a<<if $lastgeschafft != 0>>Das sind <<print $geschafft / $lastgeschafft * 100>>% des letzten Quartals.<<endif>><<set $lastgeschafft to $geschafft>>
+p288
+sg23
+Vtime_d
+p289
+sg25
+g26
+((I2015
+I12
+I21
+I0
+I15
+I0
+I0
+I355
+I0
+tp290
+(dp291
+tp292
+Rp293
+sg31
+(lp294
+sg33
+g26
+((I2015
+I12
+I20
+I20
+I37
+I42
+I6
+I354
+I0
+tp295
+(dp296
+tp297
+Rp298
+sbsa(dp299
+g14
+I00
+sg15
+(lp300
+F363.33333333333366
+aF576.6666666666674
+asg17
+(itiddlywiki
+Tiddler
+p301
+(dp302
+g21
+V<<set $geschafft += 1>>\u000a<<set $visit = 0>>\u000a<<set $content = random(11111111,99999999)>>\u000a<<timedgoto "letter_d" 0.0s>>
+p303
+sg23
+Vsend_d
+p304
+sg25
+g26
+((I2015
+I12
+I20
+I21
+I1
+I43
+I6
+I354
+I0
+tp305
+(dp306
+tp307
+Rp308
+sg31
+(lp309
+sg33
+g26
+((I2015
+I12
+I20
+I20
+I48
+I19
+I6
+I354
+I0
+tp310
+(dp311
+tp312
+Rp313
+sbsa(dp314
+g14
+I00
+sg15
+(lp315
+F980.0000000000026
+aF585.0000000000025
+asg17
+(itiddlywiki
+Tiddler
+p316
+(dp317
+g21
+V<<display "Timer Addon">><<set_timer_mode "display">>\u000a<<set_timer_param "time_e">><<print either("<img width='600px' src='http://www.ausbildung.de/system/uploads/profession/sugar_image/53eb0aac6175730d5b0b0000/fills_980x580_Ausbildung_zur_Kauffrau_B_romanagement_Inkasso.jpg'>",\u000a"<img width='600px' src='http://www.postulatio-inkasso.eu/wp-content/themes/postulatio/images/teaser/05.jpg'>",\u000a"<img width='600px' src='https://www.koenigs-inkasso.de/images/slides/04_44.jpg'>",\u000a"<img width='600px' src='http://www.eos-solutions.com/fileadmin//_migrated/media/EOS_Startseitenbilder_corporate_dienstleistungen.jpg'>",\u000a"<img width='600px' src='https://karriere.schufa.de/media/karriereseite/teaserbilder_9/sch-0850_Karriereseite_Wen_wir_suchen_800x230_1400x400.jpg'>",\u000a"<img width='600px' src='https://karriere.schufa.de/media/karriereseite/teaserbilder_9/sch-0850_Karriereseite_Direkteinstieg_800x230_1400x400.jpg'>",\u000a"<img width='600px' src='https://karriere.schufa.de/media/karriereseite/teaserbilder_9/sch-0850_Karriereseite_Duales_Studium_800x230_1400x400.jpg'>",\u000a"<img width='600px' src='https://www.schufa.de/media/unternehmenskunden/bilder_1/teaserbilder/teaser_9/Teaser_9_Header_Nachmeldung_800x230px_1400x400.jpg'>",\u000a"<img width='600px' src='https://www.schufa.de/media/unternehmenskunden/bilder_1/teaserbilder/teaser_9/Teaser_9_Scoring1_800x230px_1400x400.jpg'>",\u000a"<img width='600px' src='http://www.rofast.de/rofast-wAssets/fotos/keyvisual/abmahnung-inkasso-scheidung-22-05-2014.jpg'>",\u000a"<img width='600px' src='http://www.adebio-inkasso.de/images/slider_img/14.png'>",\u000a"<img width='600px' src='https://www.inkasso-haydn.at/upload/imgproc/554557_eb.jpg'>",\u000a"<img width='600px' src='http://www.addere-inkasso.de/Inkasso_und_Forderungsmanagement-Team.jpg'>",\u000a"<img width='600px' src='http://www.straetus-koeln.de/typo3temp/pics/567d3b88ea.jpg'>",\u000a"<img width='600px' src='http://www.dit-inkasso.de/_uploads/51892ff7838de/pic2.jpg'>",\u000a"<img width='600px' src='http://www.straetus-inkasso.de/typo3temp/pics/6fbe1d4b3d.jpg'>",\u000a"<img width='600px' src='https://www.gfkl.com/fileadmin/user_upload/GFKL%20Sirius%20Inkasso/Bilder/GFKL_Header_0005_sirius.jpg'>",\u000a"<img width='600px' src='http://inkasso.de/sites/default/files/BDIU_JHV_2015-014.jpg'>",\u000a"<img width='600px' src='http://www.buergel-solutions.de/img/img-gallery3.jpg'>",\u000a"<img width='600px' src='http://neuerunternehmergeist.de/thb/article-headlines/1141/Fotolia_89428132_Subscription_Monthly_M.jpg'>",\u000a"<img width='600px' src='http://www.straetus-inkasso.de/uploads/pics/umsatzsteuer-in-inkasso-abrechnungen-berechnen.jpg'>",\u000a"<img width='600px' src='http://www.drduve-inkasso.de/fileadmin/user_upload/ausbildung_shutterstock_109056515.jpg'>",\u000a"<img width='600px' src='https://www.eos-solutions.com/fileadmin/_processed_/csm_EOS_Board_of_Directors_a9b63b2c54.jpg'>",\u000a"<img width='600px' src='https://www.eos-solutions.com/fileadmin/_processed_/csm_EOS_Board_Hans-Werner_Scherer_9d8763549a.jpg'>")>>\u000a\u000a\u000aYou are working for <<print $agency>>.\u000a\u000aLocated in: <<print either("Hamburg","Herdecke","Kassel","Krefeld","Creußen","Lichtenfels","Ettenheim","Oberweißbach","Cottbus","Wildeshausen","Langen","Lüdenscheid","Endingen am Kaiserstuhl","Ravenstein","Auerbach in der Oberpfalz")>>\u000a\u000a<<print random(123,599)>>.<<print random(1,9)>> million euros in revenue were generated during the last quarter. <<print random(2,40)>>.<<print random(1,9)>>% less than the forecast.\u000a\u000aThis is not acceptable.<<set $vorbei to false>>\u000a\u000a<<if $written >= 2>>There is a [[note|note_e]] on your desk.<<else>>[[Work.|goto_e]]<<endif>><<set $written += 1>>
+p318
+sg23
+Vcompany_e
+p319
+sg25
+g26
+((I2015
+I12
+I21
+I0
+I14
+I43
+I0
+I355
+I0
+tp320
+(dp321
+tp322
+Rp323
+sg31
+(lp324
+sg33
+g26
+((I2015
+I12
+I20
+I16
+I0
+I40
+I6
+I354
+I0
+tp325
+(dp326
+tp327
+Rp328
+sbsa(dp329
+g14
+I00
+sg15
+(lp330
+F1344.3333333333335
+aF718.0000000000005
+asg17
+(itiddlywiki
+Tiddler
+p331
+(dp332
+g21
+V<<if $vorbei is true>><<timedgoto "time_e" 0.0s>><<endif>><<set $visit += 1>>Reference number: <<print $content>>\u000a\u000a<<if $visit is 1>>[[Dear Mr./Mrs. (Subject),|letter_e][$content += "<br><br>Dear" + either(" Mr. "," Mrs. ") + either("Müller","Schmidt","Schneider","Fischer","Meyer","Weber","Wagner","Becker","Schulz","Hoffmann","Schäfer","Koch","Bauer","Klein","Neumann","Schwarz","Krüger","Hartmann","Lange","Meier","Krause","Schmid","Köhler","Dietrich","Haas","Nowak","Pietsch","Yilmaz","Günther","Roth","Franke","Ziegler","Pohl")+","]]<<endif>>\u005c\u000a\u005c\u000a\u005c\u000a\u005c\u000a\u005c\u000a<<if $visit is 2>><<if visited() < 5>>[[we hereby announce that we have been entrusted with the collection of the claim mentioned below by our creditor.|letter_e][$content += "<br><br>we hereby announce that we have been entrusted with the collection of the claim mentioned below by our creditor."]]<<else>>[[we hereby announce that we have been entrusted with the collection of the claim mentioned below by our creditor.|letter_e][$content += "<br><br>we hereby announce that we have been entrusted with the collection of the claim mentioned below by our creditor."]]\u000a\u000a[[unfortunately you have so far not responded to any of our offers in your favor.|letter_e][$content += "<br><br>unfortunately you have so far not responded to any of our offers in your favor."]]\u000a\u000a[[it is now time to sort out your debts to us.|letter_e][$content += "<br><br>it is now time to sort out your debts to us."]]\u000a\u000a[[unfortunately you leave us no choice but to give you this final exhortation!|letter_e][$content += "<br><br>unfortunately you leave us no choice but to give you this final exhortation!"]]<<endif>><<endif>>\u005c\u000a\u005c\u000a\u005c\u000a\u005c\u000a\u005c\u000a\u005c\u000a\u005c\u000a<<if $visit is 3>>[[We threfore ask you to pay the full sum of|letter_e][$content += "<br><br>We threfore ask you to pay the full sum of"]]<<endif>>\u005c\u000a\u005c\u000a<<if $visit is 4>>\u005c\u000a<<set $forder1 = random(35,2500) + "." + random(10,99)>><<set $forder2 = random(35,2500) + "." + random(10,99)>><<set $forder3 = random(35,2500) + "." + random(10,99)>>\u005c\u000a<center>[[<<print $forder1>> EUR|letter_e][$content += "<br><br><br><center>" + $forder1 +  " EUR</center>"]]\u000a\u000a[[<<print $forder2>> EUR|letter_e][$content += "<br><br><br><center>" + $forder2 +  " EUR</center>"]]\u000a\u000a[[<<print $forder3>> EUR|letter_e][$content += "<br><br><br><center>" + $forder3 +  " EUR</center>"]]</center><<endif>>\u005c\u000a\u005c\u000a<<if $visit is 5>>[[excl. interest and costs that result of your late payment, to our account mentioned in the attached document.|letter_e][$content += "<br><br>excl. interest and costs that result of your late payment, to our account mentioned in the attached document."]]<<endif>>\u005c\u000a\u005c\u000a\u005c\u000a\u005c\u000a\u005c\u000a\u005c\u000a\u005c\u000a\u005c\u000a<<if $visit is 6>><<if random(0,1,2,3) is 0>>[[We expect the remittance of the above-mentioned amount within 7 days (date of receipt) to our account!|letter_e][$content += "<br><br>We expect the remittance of the above-mentioned amount within 7 days (date of receipt) to our account!"]]\u000a\u000a[[We expect the remittance of the above-mentioned amount within 14 days (date of receipt) to our account!|letter_e][$content += "<br><br>We expect the remittance of the above-mentioned amount within 14 days (date of receipt) to our account!"]]<<elseif random(0,1,2) is 0>>[[After the deadline we will proceed according to our mandate against you. Do not let it come to that!|letter_e][$content += "<br><br>After the deadline we will proceed according to our mandate against you. Do not let it come to that!"]]<<else>><<if random(0,1) is 0>>[[The bailiff has been notified.|letter_e][$content += "<br><br>The bailiff has been notified."]]\u000a\u000a[[A corresponding negative alert to your credit institution has already taken place.|letter_e][$content += "<br><br>A corresponding negative alert to your credit institution has already taken place."]]<<else>>[[Should the payment of the above-mentioned amount not be possible immediately, please submit the accompanying form with your payment proposal promptly.|letter_e][$content += "<br><br>Should the payment of the above-mentioned amount not be possible immediately, please submit the accompanying form with your payment proposal promptly."]]\u000a\u000a[[Should the payment of the above-mentioned amount not be possible immediately, you are hereby asked to sign and return the attached installment proposal within 7 days and to transfer the corresponding rate (excl. interest and daily settlement fee) on time.|letter_e][$content += "<br><br>Should the payment of the above-mentioned amount not be possible immediately, you are hereby asked to sign and return the attached installment proposal within 7 days and to transfer the corresponding rate (excl. interest and daily settlement fee) on time."]]\u000a\u000a[[If, contrary to our expectations, the payment of the above-mentioned amount will not be possible in a timely manner, please send us the accompanying declaration of transfer within 7 days. Appropriate remuneration refunds are to be payed within one month.|letter_e][$content += "<br><br>If, contrary to our expectations, the payment of the above-mentioned amount will not be possible in a timely manner, please send us the accompanying declaration of transfer within 7 days. Appropriate remuneration refunds are to be payed within one month."]]<<endif>><<endif>><<endif>>\u005c\u000a\u005c\u000a\u005c\u000a\u005c\u000a\u005c\u000a\u005c\u000a<<if $visit is 7>>[[Should not you be willing to settle your debt, we feel compelled to forcibly execute measures against you. These include, among others:|letter_e][$content += "<br><br>Should not you be willing to settle your debt, we feel compelled to forcibly execute measures against you. These include, among others:"]]<<endif>>\u005c\u000a<<if $visit is 8>>[[Seizure and suspension of your account.|letter_e][$content += "<br><br>Seizure and suspension of your account."]]\u000a\u000a[[Blocking of your credit cards.|letter_e][$content += "<br><br>Blocking of your credit cards."]]\u000a\u000a[[Suspension of your mobile and landline contract.|letter_e][$content += "<br><br>Suspension of your mobile and landline contract."]]\u000a\u000a[[Termination of your lease agreement.|letter_e][$content += "<br><br>Termination of your lease agreement."]]\u000a\u000a[[Garnishment of cash and cashable assets.|letter_e][$content += "<br><br>Garnishment of cash and cashable assets."]]\u000a\u000a[[Alerting of your employer.|letter_e][$content += "<br><br>Alerting of your employer."]]<<endif>>\u005c\u000a\u005c\u000a<<if $visit is 9>><<if random(0,1,2,3) is 0>>[[If you do not comment on your ills, we see ourselves compelled to take further legal action against you.|letter_e][$content += "<br><br>If you do not comment on your ills, we see ourselves compelled to take further legal action against you."]]<<elseif random(0,1,2) is 0>>[[In fulfillment of our obligation under §5-65201-B, we point out that we will forward data of overdue and undisputed claims to third parties like credit reporting agencies for usage in credit checking at our own discretion.|letter_e][$content += "<br><br>In fulfillment of our obligation under §5-65201-B, we point out that we will forward data of overdue and undisputed claims to third parties like credit reporting agencies for usage in credit checking at our own discretion."]]<<elseif random(0,1) is 0>>[[This is the last warning to you!|letter_e][$content += "<br><br>This is the last warning to you!"]]<<else>>[[For further information you can reach us at the following phone number: (Service-Number)|letter_e][$content += "<br><br>For further information you can reach us at the following phone number: 0"+random(0,9)+random(0,9)+random(0,9)+random(0,9)+random(0,9)+random(0,9)+random(0,9)+random(0,9)+random(0,9)+random(0,9)+random(0,9)]]<<endif>><<endif>>\u005c\u000a\u005c\u000a\u005c\u000a\u005c\u000a\u005c\u000a\u005c\u000a\u005c\u000a\u005c\u000a<<if $visit is 10>>[[(Signature)|letter_e][$content += "<br><br>Sincerely,<br><br>" + $signature + "<br>" + $agency]]<<endif>>\u005c\u000a\u005c\u000a<<if $visit is 11>>[[Send|send_e]]<<endif>>\u005c\u000a
+p333
+sg23
+Vletter_e
+p334
+sg25
+g26
+((I2015
+I12
+I21
+I0
+I14
+I14
+I0
+I355
+I0
+tp335
+(dp336
+tp337
+Rp338
+sg31
+(lp339
+sg33
+g26
+((I2015
+I12
+I20
+I16
+I39
+I51
+I6
+I354
+I0
+tp340
+(dp341
+tp342
+Rp343
+sbsa(dp344
+g14
+I00
+sg15
+(lp345
+F1113.6666666666665
+aF584.9999999999997
+asg17
+(itiddlywiki
+Tiddler
+p346
+(dp347
+g21
+V<<if $written is 3>>Negative economic growth leads to cutback of human capital.\u000a\u000aYou are have hereby been warned.\u000a\u000a[[Work.|goto_e]]<<else if $written is 4>>Dear employee,\u000a\u000aconsidering your negative performance development over the past few quarters, we hereby inform you that your employment will be [[terminated|new_e]] with immediate effect.\u000a\u000aWe thank you for your cooperation.\u000a\u000aSincerely,\u000a\u000a<<print $signature>>\u000a<<print $agency>><<endif>>
+p348
+sg23
+Vnote_e
+p349
+sg25
+g26
+((I2015
+I12
+I20
+I23
+I38
+I24
+I6
+I354
+I0
+tp350
+(dp351
+tp352
+Rp353
+sg31
+(lp354
+sg33
+g26
+((I2015
+I12
+I20
+I17
+I35
+I44
+I6
+I354
+I0
+tp355
+(dp356
+tp357
+Rp358
+sbsa(dp359
+g14
+I00
+sg15
+(lp360
+F1112.3333333333305
+aF878.0000000000014
+asg17
+(itiddlywiki
+Tiddler
+p361
+(dp362
+g21
+VWhat now?\u000a\u000a[[Apply for a new job.|English]]
+p363
+sg23
+Vnew_e
+p364
+sg25
+g26
+((I2015
+I12
+I20
+I23
+I28
+I24
+I6
+I354
+I0
+tp365
+(dp366
+tp367
+Rp368
+sg31
+(lp369
+sg33
+g26
+((I2015
+I12
+I20
+I17
+I36
+I13
+I6
+I354
+I0
+tp370
+(dp371
+tp372
+Rp373
+sbsa(dp374
+g14
+I00
+sg15
+(lp375
+F1285.333333333333
+aF580.0000000000005
+asg17
+(itiddlywiki
+Tiddler
+p376
+(dp377
+g21
+V<<set $content to random(11111111,99999999)>>\u000a<<set $geschafft to 0>>\u000a<<start_timer 35>>\u000a<<set $visit to 0>>\u000a<<timedgoto "letter_e" 0.0s>>
+p378
+sg23
+Vgoto_e
+p379
+sg25
+g26
+((I2015
+I12
+I20
+I23
+I26
+I29
+I6
+I354
+I0
+tp380
+(dp381
+tp382
+Rp383
+sg31
+(lp384
+sg33
+g26
+((I2015
+I12
+I20
+I20
+I15
+I36
+I6
+I354
+I0
+tp385
+(dp386
+tp387
+Rp388
+sbsa(dp389
+g14
+I00
+sg15
+(lp390
+F978.6666666666633
+aF725.0000000000024
+asg17
+(itiddlywiki
+Tiddler
+p391
+(dp392
+g21
+V<<set $vorbei to true>>You have sent ''<<print $geschafft>> letter'' this [[quarter|company_e]].\u000a\u000a<<if $lastgeschafft != 0>>That is <<print $geschafft / $lastgeschafft * 100>>% of the last quarter's performance.<<endif>><<set $lastgeschafft to $geschafft>>
+p393
+sg23
+Vtime_e
+p394
+sg25
+g26
+((I2015
+I12
+I21
+I0
+I14
+I35
+I0
+I355
+I0
+tp395
+(dp396
+tp397
+Rp398
+sg31
+(lp399
+sg33
+g26
+((I2015
+I12
+I20
+I20
+I37
+I42
+I6
+I354
+I0
+tp400
+(dp401
+tp402
+Rp403
+sbsa(dp404
+g14
+I00
+sg15
+(lp405
+F1412.000000000001
+aF585.0000000000001
+asg17
+(itiddlywiki
+Tiddler
+p406
+(dp407
+g21
+V<<set $geschafft += 1>>\u000a<<set $visit = 0>>\u000a<<set $content = random(11111111,99999999)>>\u000a<<timedgoto "letter_e" 0.0s>>
+p408
+sg23
+Vsend_e
+p409
+sg25
+g26
+((I2015
+I12
+I20
+I23
+I26
+I35
+I6
+I354
+I0
+tp410
+(dp411
+tp412
+Rp413
+sg31
+(lp414
+sg33
+g26
+((I2015
+I12
+I20
+I20
+I48
+I19
+I6
+I354
+I0
+tp415
+(dp416
+tp417
+Rp418
+sbsasS'scale'
+p419
+F0.6000000000000001
+sS'snapping'
+p420
+I00
+ss.
