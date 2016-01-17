@@ -1,0 +1,215 @@
+(dp0
+S'buildDestination'
+p1
+S''
+p2
+sS'saveDestination'
+p3
+S'C:\\Users\\voec\\Documents\\twine\\working\\template.tws'
+p4
+sS'metadata'
+p5
+(dp6
+sS'target'
+p7
+S'sugarcane'
+p8
+sS'storyPanel'
+p9
+(dp10
+S'widgets'
+p11
+(lp12
+(dp13
+S'selected'
+p14
+I01
+sS'pos'
+p15
+(lp16
+I293
+aI151
+asS'passage'
+p17
+(itiddlywiki
+Tiddler
+p18
+(dp20
+S'text'
+p21
+VYour story will display this passage first. Edit it by double clicking it.
+p22
+sS'title'
+p23
+VStart
+p24
+sS'modified'
+p25
+ctime
+struct_time
+p26
+((I2016
+I1
+I9
+I18
+I26
+I2
+I5
+I9
+I0
+tp27
+(dp28
+tp29
+Rp30
+sS'tags'
+p31
+(lp32
+sS'created'
+p33
+g26
+((I2016
+I1
+I9
+I18
+I0
+I58
+I5
+I9
+I0
+tp34
+(dp35
+tp36
+Rp37
+sbsa(dp38
+g14
+I00
+sg15
+(lp39
+I10
+aI150
+asg17
+(itiddlywiki
+Tiddler
+p40
+(dp41
+g21
+S'Untitled Story'
+p42
+sg23
+S'StoryTitle'
+p43
+sg25
+g26
+((I2016
+I1
+I9
+I18
+I0
+I58
+I5
+I9
+I0
+tp44
+(dp45
+tp46
+Rp47
+sg31
+(lp48
+sg33
+g47
+sbsa(dp49
+g14
+I00
+sg15
+(lp50
+I10
+aI290
+asg17
+(itiddlywiki
+Tiddler
+p51
+(dp52
+g21
+S'Anonymous'
+p53
+sg23
+S'StoryAuthor'
+p54
+sg25
+g26
+((I2016
+I1
+I9
+I18
+I0
+I58
+I5
+I9
+I0
+tp55
+(dp56
+tp57
+Rp58
+sg31
+(lp59
+sg33
+g58
+sbsa(dp60
+g14
+I00
+sg15
+(lp61
+F11.0
+aF13.0
+asg17
+(itiddlywiki
+Tiddler
+p62
+(dp63
+g21
+Vbody\u000a{\u000a	background-color: #000;\u000a	color: #fff;\u000a\u000a	margin: 0;\u000a	padding: 0;\u000a	text-align: center; /* Used to center the box */\u000a}\u000a\u000a#passages {\u000a	width: auto; /* Box width */\u000a	min-height: 40%;\u000a\u000a	display: inline-block;\u000a	border-left: 0px;\u000a\u000a	margin:auto;\u000a	margin-top: 2%; /*Add a bit of space at the top */\u000a	margin-left: 0;\u000a	margin-right: 0;\u000a	padding: 0px;\u000a}\u000a\u000a.passage\u000a{\u000a	margin: 0px; /* Inner margin within the box */\u000a	padding: 2em; /* Text formatting */\u000a}\u000a\u000a.passage a\u000a{\u000a	color: #4d6ad8;\u000a	font-weight: bold;\u000a	text-decoration: none;\u000a}\u000a\u000a.passage a:hover\u000a{\u000a	color: #8ea6ff;\u000a	text-decoration: underline;\u000a}\u000a\u000a#sidebar /* Hide sidebar */\u000a{\u000a  display:none;\u000a}
+p64
+sg23
+VUntitled Stylesheet 1
+p65
+sg25
+g26
+((I2016
+I1
+I9
+I18
+I22
+I48
+I5
+I9
+I0
+tp66
+(dp67
+tp68
+Rp69
+sg31
+(lp70
+Vstylesheet
+p71
+asg33
+g26
+((I2016
+I1
+I9
+I18
+I1
+I41
+I5
+I9
+I0
+tp72
+(dp73
+tp74
+Rp75
+sbsasS'scale'
+p76
+I1
+sS'snapping'
+p77
+I00
+ss.
