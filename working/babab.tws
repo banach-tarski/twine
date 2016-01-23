@@ -1,0 +1,328 @@
+(dp0
+S'buildDestination'
+p1
+VD:\u005cProjekte\u005cone\u005c13.html
+p2
+sS'saveDestination'
+p3
+VD:\u005cProjekte\u005cone\u005cbabab.tws
+p4
+sS'metadata'
+p5
+(dp6
+sS'target'
+p7
+S'sugarcane'
+p8
+sS'storyPanel'
+p9
+(dp10
+S'widgets'
+p11
+(lp12
+(dp13
+S'selected'
+p14
+I00
+sS'pos'
+p15
+(lp16
+I290
+aI114
+asS'passage'
+p17
+(itiddlywiki
+Tiddler
+p18
+(dp20
+S'text'
+p21
+VThere exists a library, composed of rows and rows and columns and columns and layers and layers of hexagonal galleries which strech far in all directions.\u000aIt is called the //Library of Babel//.\u000aIn each hexagon of this library there are four walls, each lined with five book-shelves. Each shelf containing thirty-five books and each book having four-hundred-and-ten pages containing fourty lines of eigthy perfect black letters.\u000a\u000aEach book in this library is different from another. But all are made up of the same twenty-five characters: The space, the comma, the punctuation mark and twenty-two letters of the alphabet.\u000aEach organized seemingly randomly on those four-hundred-and-ten pages, it is postulated that the library contains each possible combination of these characters and therefore contains every possible book that could ever be written.\u000a\u000aPeople have travelled far through the hexagons in search for the hidden secrets of these books. While most of them contain only nonsensical variations of random letters, because the library contains all perceivable books, somewhere hidden in one of the shelves in one of the hexagons there exists one book that contains every mystery of the universe, one that contains the true story of how you die, a million that contain false stories about how you die and even one that contains [[this exact paragraph|https://libraryofbabel.info/bookmark.cgi?jdnpgnaqccvw_upaj.vufm.227]].\u000a\u000a\u000aBut our adventure is not about any of that. Of course not!\u000aOur story is about...\u000a\u000a\u000a\u000a\u000a<center>''THE LIBRARY OF AAAAA''</center>\u000a\u000a\u000a\u000a\u000a[[//By this art you may contemplate the variations of the letter a...//|begin]]
+p22
+sS'title'
+p23
+VStart
+p24
+sS'modified'
+p25
+ctime
+struct_time
+p26
+((I2016
+I1
+I12
+I10
+I25
+I40
+I1
+I12
+I0
+tp27
+(dp28
+tp29
+Rp30
+sS'tags'
+p31
+(lp32
+sS'created'
+p33
+g26
+((I2016
+I1
+I9
+I4
+I55
+I51
+I5
+I9
+I0
+tp34
+(dp35
+tp36
+Rp37
+sbsa(dp38
+g14
+I00
+sg15
+(lp39
+I10
+aI150
+asg17
+(itiddlywiki
+Tiddler
+p40
+(dp41
+g21
+V13
+p42
+sg23
+VStoryTitle
+p43
+sg25
+g26
+((I2016
+I1
+I12
+I10
+I41
+I46
+I1
+I12
+I0
+tp44
+(dp45
+tp46
+Rp47
+sg31
+(lp48
+sg33
+g26
+((I2016
+I1
+I9
+I4
+I55
+I51
+I5
+I9
+I0
+tp49
+(dp50
+tp51
+Rp52
+sbsa(dp53
+g14
+I00
+sg15
+(lp54
+I10
+aI290
+asg17
+(itiddlywiki
+Tiddler
+p55
+(dp56
+g21
+S'Anonymous'
+p57
+sg23
+S'StoryAuthor'
+p58
+sg25
+g26
+((I2016
+I1
+I9
+I4
+I55
+I51
+I5
+I9
+I0
+tp59
+(dp60
+tp61
+Rp62
+sg31
+(lp63
+sg33
+g62
+sbsa(dp64
+g14
+I00
+sg15
+(lp65
+F438.0
+aF259.0
+asg17
+(itiddlywiki
+Tiddler
+p66
+(dp67
+g21
+V<<if visited() == 1>>\u000a \u000a \u000a \u000a \u000a \u000a \u000a \u000a \u000a \u000a \u000a \u000a \u000a \u000a \u000a \u000a \u000a <center>//Volume 1 of 1//</center>\u000a<center>''aaaaaaaaaaaaaaaaaaaaa''</center>\u000a \u000a \u000a \u000a \u000a \u000a \u000a \u000a \u000a \u000a \u000a \u000a \u000a \u000a \u000a \u000a \u000a \u000a \u000a \u000a \u000a \u000a \u000a\u000a[[//Continue to the next page...//|begin]]\u000a<<else if visited() < 410>>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\u000aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\u000aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\u000aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\u000aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\u000aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\u000aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\u000aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\u000aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\u000aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\u000aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\u000aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\u000aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\u000aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\u000aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\u000aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\u000aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\u000aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\u000aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\u000aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\u000aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\u000aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\u000aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\u000aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\u000aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\u000aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\u000aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\u000aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\u000aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\u000aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\u000aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\u000aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\u000aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\u000aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\u000aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\u000aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\u000aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\u000aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\u000aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\u000aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\u000a\u000a[[//Continue to the next page...//|begin]]<<else>>//...all this, I repeat, is true, but four hundred and ten pages of inalterable A's cannot correspond to any language, no matter how dialectical or rudimentary it may be.//<<endif>>
+p68
+sg23
+Vbegin
+p69
+sg25
+g26
+((I2016
+I1
+I9
+I6
+I13
+I38
+I5
+I9
+I0
+tp70
+(dp71
+tp72
+Rp73
+sg31
+(lp74
+sg33
+g26
+((I2016
+I1
+I9
+I5
+I58
+I11
+I5
+I9
+I0
+tp75
+(dp76
+tp77
+Rp78
+sbsa(dp79
+g14
+I00
+sg15
+(lp80
+I33
+aI457
+asg17
+(itiddlywiki
+Tiddler
+p81
+(dp82
+g21
+Vbody {\u000a  /* Remove default styles */\u000a  background-color: #dfdfdf;\u000a  margin: 0;\u000a  padding: 0;\u000a  font-family: serif;\u000afont-size: 15px;\u000a  /* Used to center the box */\u000a  text-align: center;\u000a}\u000a\u000a#passages {\u000a\u000a  /* Box width */\u000a  width: 720px;\u000abackground-color: #d0d0d0;\u000a  border-left: 0px;\u000a  /* Center the box */\u000a  display: inline-block;\u000a  min-height: 40%;\u000a  margin:auto;\u000a  margin-top: 2%;\u000amargin-bottom: 2%;\u000a  padding: 0px;\u000a  margin-left: 0;\u000a  margin-right: 0;\u000a/* automatic word break*/\u000a-moz-hyphens:auto;\u000a-ms-hyphens:auto;\u000a-webkit-hyphens:auto;\u000ahyphens:auto;\u000aword-wrap:break-word;\u000a}\u000a\u000a.passage {\u000a  margin: 0px;\u000a  /* Inner margin within the box */\u000a  padding: 2em;\u000a  /* Text formatting */\u000a  color: #202020;\u000a}\u000a\u000a#sidebar {\u000a  display: none;\u000a}\u000a\u000a\u000a/* Links */\u000aa.internalLink, a.externalLink {\u000a  color: #050505;\u000afont-weight: normal;\u000atext-decoration: underline;\u000a}\u000aa.internalLink:hover, a.externalLink:hover {\u000a  color: #444444;\u000atext-decoration: underline;\u000a}
+p83
+sg23
+VUntitled Stylesheet 1
+p84
+sg25
+g26
+((I2016
+I1
+I12
+I10
+I38
+I56
+I1
+I12
+I0
+tp85
+(dp86
+tp87
+Rp88
+sg31
+(lp89
+Vstylesheet
+p90
+asg33
+g26
+((I2016
+I1
+I12
+I10
+I11
+I1
+I1
+I12
+I0
+tp91
+(dp92
+tp93
+Rp94
+sbsa(dp95
+g14
+I01
+sg15
+(lp96
+I865
+aI232
+asg17
+(itiddlywiki
+Tiddler
+p97
+(dp98
+g21
+Vbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb\u000abbbbbbbbbbbbbbbbbbbbbbbbbbb\u000abbbbbbbbbbbbbbbbbbbbbbbbbbbb
+p99
+sg23
+VUntitled Passage 1
+p100
+sg25
+g26
+((I2016
+I1
+I12
+I10
+I47
+I12
+I1
+I12
+I0
+tp101
+(dp102
+tp103
+Rp104
+sg31
+(lp105
+sg33
+g26
+((I2016
+I1
+I12
+I10
+I47
+I2
+I1
+I12
+I0
+tp106
+(dp107
+tp108
+Rp109
+sbsasS'scale'
+p110
+I1
+sS'snapping'
+p111
+I00
+ss.
