@@ -14,8 +14,7 @@ _____
 
 This is an archive for my Twine play-things, which can be found at the above itch.io address.
 
-If you are reading this you probably gained access to this repository because you have supported me on patreon.
-Either way you are free to share this link and the projects in any way you like.
+You are free to share this link and the projects in any way you like.
 
 **folder structure:**
 
