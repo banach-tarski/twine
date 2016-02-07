@@ -1,0 +1,228 @@
+(dp0
+S'buildDestination'
+p1
+S''
+p2
+sS'saveDestination'
+p3
+VD:\u005cProjects\u005ctwine\u005cone\u005c16.tws
+p4
+sS'metadata'
+p5
+(dp6
+sS'target'
+p7
+S'sugarcane'
+p8
+sS'storyPanel'
+p9
+(dp10
+S'widgets'
+p11
+(lp12
+(dp13
+S'selected'
+p14
+I00
+sS'pos'
+p15
+(lp16
+I293
+aI151
+asS'passage'
+p17
+(itiddlywiki
+Tiddler
+p18
+(dp20
+S'text'
+p21
+V<<if visited() is 1>><<set $x to 1>><<set $y to 3>><<endif>><<print visited()>> . . <<if $x < 0>>YOU RUN INTO A WALL<<set $x += 1>><<elseif $x > 3>><<if $y is 1>><<if $open is true>>YOU EXIT A ROOM . .<<set $exit = true>><<else>>YOU OPEN A DOOR . .<<set $x -= 1>><<set $open = true>><<endif>><<else>>YOU RUN INTO A WALL<<set $x -= 1>><<endif>><<elseif $y < 0>>YOU RUN INTO A WALL<<set $y += 1>><<elseif $y > 3>>YOU RUN INTO A WALL<<set $y -= 1>><<else>><<if visited() is 1>>YOU ARE IN A ROOM .<<else>>YOU TAKE A STEP . .<<endif>><<endif>> . . [ <<print $x>> . <<print $y>> ]\u000a\u000a<<if $exit is true>><<else>>[[N|Start][$y -= 1]] . [[S|Start][$y += 1]] . [[W|Start][$x -= 1]] . [[O|Start][$x += 1]]<<endif>>
+p22
+sS'title'
+p23
+VStart
+p24
+sS'modified'
+p25
+ctime
+struct_time
+p26
+((I2016
+I2
+I8
+I0
+I27
+I9
+I0
+I39
+I0
+tp27
+(dp28
+tp29
+Rp30
+sS'tags'
+p31
+(lp32
+sS'created'
+p33
+g26
+((I2016
+I1
+I9
+I18
+I0
+I58
+I5
+I9
+I0
+tp34
+(dp35
+tp36
+Rp37
+sbsa(dp38
+g14
+I00
+sg15
+(lp39
+I62
+aI154
+asg17
+(itiddlywiki
+Tiddler
+p40
+(dp41
+g21
+V16
+p42
+sg23
+VStoryTitle
+p43
+sg25
+g26
+((I2016
+I2
+I7
+I23
+I53
+I57
+I6
+I38
+I0
+tp44
+(dp45
+tp46
+Rp47
+sg31
+(lp48
+sg33
+g26
+((I2016
+I1
+I9
+I18
+I0
+I58
+I5
+I9
+I0
+tp49
+(dp50
+tp51
+Rp52
+sbsa(dp53
+g14
+I00
+sg15
+(lp54
+I62
+aI294
+asg17
+(itiddlywiki
+Tiddler
+p55
+(dp56
+g21
+S'Anonymous'
+p57
+sg23
+S'StoryAuthor'
+p58
+sg25
+g26
+((I2016
+I1
+I9
+I18
+I0
+I58
+I5
+I9
+I0
+tp59
+(dp60
+tp61
+Rp62
+sg31
+(lp63
+sg33
+g62
+sbsa(dp64
+g14
+I00
+sg15
+(lp65
+F63.0
+aF17.0
+asg17
+(itiddlywiki
+Tiddler
+p66
+(dp67
+g21
+Vbody\u000a{\u000a	background-color: #363636;\u000a	color: #d0d0d0;\u000a\u000a	margin: 0;\u000a	padding: 0;\u000a	text-align: center; /* Used to center the box */\u000a}\u000a\u000a#passages {\u000a	width: 700px; /* Box width */\u000a	min-height: 40%;\u000a\u000a	display: inline-block;\u000a	border-left: 0px;\u000a\u000a	margin:auto;\u000a	margin-top: 2%; /*Add a bit of space at the top */\u000a	margin-left: 0;\u000a	margin-right: 0;\u000a	padding: 0px;\u000a}\u000a\u000a.passage\u000a{\u000a	margin: 0px; /* Inner margin within the box */\u000a	padding: 2em; /* Text formatting */\u000a	font-size: 22px;\u000a	font-family: monospace;\u000a}\u000a\u000a.passage a\u000a{\u000a	color: #d0d0d0;\u000a	font-weight: normal;\u000a	text-decoration: underline;\u000a}\u000a\u000a.passage a:hover\u000a{\u000a	color: #d0d0d0;\u000a	text-decoration: underline;\u000a}\u000a\u000a#sidebar /* Hide sidebar */\u000a{\u000a  display:none;\u000a}
+p68
+sg23
+VUntitled Stylesheet 1
+p69
+sg25
+g26
+((I2016
+I2
+I8
+I0
+I21
+I11
+I0
+I39
+I0
+tp70
+(dp71
+tp72
+Rp73
+sg31
+(lp74
+Vstylesheet
+p75
+asg33
+g26
+((I2016
+I1
+I9
+I18
+I1
+I41
+I5
+I9
+I0
+tp76
+(dp77
+tp78
+Rp79
+sbsasS'scale'
+p80
+I1
+sS'snapping'
+p81
+I00
+ss.
