@@ -1,11 +1,11 @@
 (dp0
 S'buildDestination'
 p1
-S''
+VD:\u005cProjects\u005ctwine\u005cone\u005c17.html
 p2
 sS'saveDestination'
 p3
-VD:\u005cProjects\u005ctwine\u005cone\u005c16.tws
+VD:\u005cProjects\u005ctwine\u005cone\u005c17.tws
 p4
 sS'metadata'
 p5
@@ -93,7 +93,7 @@ Tiddler
 p40
 (dp41
 g21
-V16
+V17
 p42
 sg23
 VStoryTitle
@@ -102,12 +102,12 @@ sg25
 g26
 ((I2016
 I2
-I7
-I23
-I53
-I57
-I6
-I38
+I8
+I0
+I54
+I28
+I0
+I39
 I0
 tp44
 (dp45
@@ -271,7 +271,7 @@ tp93
 Rp94
 sbsa(dp95
 g14
-I00
+I01
 sg15
 (lp96
 F765.0
@@ -282,7 +282,7 @@ Tiddler
 p97
 (dp98
 g21
-Vyou wait for the right oppurtunity.\u000aand then wait some more.\u000aand wait more.\u000aand then wait a really long time.\u000aeventually the author dies at old age from an insignificant illness.\u000a\u000ayou murderer!\u000a\u000a\u000a//THE END//\u000a----------\u000athank you for playing
+Vyou wait for the right opportunity.\u000aand then wait some more.\u000aand wait more.\u000aand then wait a really long time.\u000aeventually the author dies at old age from an insignificant illness.\u000a\u000ayou murderer!\u000a\u000a\u000a//THE END//\u000a----------\u000athank you for playing
 p99
 sg23
 Vv
@@ -293,8 +293,8 @@ g26
 I2
 I8
 I0
-I52
-I44
+I54
+I59
 I0
 I39
 I0
